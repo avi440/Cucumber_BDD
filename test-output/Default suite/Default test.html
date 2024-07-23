@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Jul 23 18:05:30 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>135 seconds (135641 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification.runScenario()'><b>runScenario</b><br>Test class: com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Automation demo aplication element verifycation", "Optional[Submit Automation demo - Login page]"</td>
+<td></td>
+<td>10</td>
+<td>com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc</td></tr>
+<tr>
+<td title='com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification.runScenario()'><b>runScenario</b><br>Test class: com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Automation demo page click on the refresh button", "Optional[Submit Automation demo - Login page]"<br/>
+<a href="#Output-291284958" onClick='toggleBox("Output-291284958", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-291284958" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-291284958">
+Element [[ChromeDriver: chrome on WINDOWS (2c80017351c7b092089d42a5b2d31a2a)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 139). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60443}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c80017351c7b092089d42a5b2d31a2a<br/>
+</div>
+</td>
+<td></td>
+<td>64</td>
+<td>com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc</td></tr>
+<tr>
+<td title='com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification.runScenario()'><b>runScenario</b><br>Test class: com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Automation demo page Submit the data", "Optional[Submit Automation demo - Login page]"<br/>
+<a href="#Output-1214498988" onClick='toggleBox("Output-1214498988", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1214498988" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1214498988">
+Element [[ChromeDriver: chrome on WINDOWS (d342bafd4d9b9c210f50e8ed47bbe9a1)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 206). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60524}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d342bafd4d9b9c210f50e8ed47bbe9a1<br/>
+</div>
+</td>
+<td></td>
+<td>60</td>
+<td>com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc</td></tr>
+</table><p>
+</body>
+</html>

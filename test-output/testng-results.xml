@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Element [[ChromeDriver: chrome on WINDOWS (2c80017351c7b092089d42a5b2d31a2a)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 139). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60443}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c80017351c7b092089d42a5b2d31a2a]]>
+    </line>
+    <line>
+      <![CDATA[Element [[ChromeDriver: chrome on WINDOWS (d342bafd4d9b9c210f50e8ed47bbe9a1)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 206). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60524}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d342bafd4d9b9c210f50e8ed47bbe9a1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-23T18:05:30 IST" name="Default suite" finished-at="2024-07-23T18:07:45 IST" duration-ms="135641">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-07-23T18:05:30 IST" name="Default test" finished-at="2024-07-23T18:07:45 IST" duration-ms="135641">
+      <class name="com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc]" started-at="2024-07-23T18:05:30 IST" name="setUpClass" finished-at="2024-07-23T18:05:30 IST" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ccb12d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc]" started-at="2024-07-23T18:05:30 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-23T18:05:40 IST" duration-ms="10210" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Automation demo aplication element verifycation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Submit Automation demo - Login page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc]" started-at="2024-07-23T18:05:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-23T18:06:45 IST" duration-ms="64401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Automation demo page click on the refresh button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Submit Automation demo - Login page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Element [[ChromeDriver: chrome on WINDOWS (2c80017351c7b092089d42a5b2d31a2a)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 139). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60443}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c80017351c7b092089d42a5b2d31a2a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc]" started-at="2024-07-23T18:06:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-23T18:07:45 IST" duration-ms="60484" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Automation demo page Submit the data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Submit Automation demo - Login page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Element [[ChromeDriver: chrome on WINDOWS (d342bafd4d9b9c210f50e8ed47bbe9a1)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 206). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60524}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d342bafd4d9b9c210f50e8ed47bbe9a1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@a1153bc]" started-at="2024-07-23T18:07:45 IST" name="tearDownClass" finished-at="2024-07-23T18:07:45 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+page title:submit Automation demo - Login page
+
+
+# Object Definitions 
+===============================================================================================================================
+
+headerElement                                        xpath                  //*/a[contains(text(),'${Column_name}')]
+fieldElement                                         xpath                  //*[contains(text(),'${Column_name}')]
+FullAndAddressNameElements                           xpath                  //*[@ng-model='${name}']
+GenderElement                                        xpath                  //*[contains(text(), '${gender}')]/following-sibling::*//input[@value='${genderValue}']
+HobbiesElement                                       xpath                  //*[contains(text(),'${Hobbies}')]/following-sibling::*//*[contains(text(),'${HobbiesValue}')]/preceding-sibling::*[1]
+languagesMultiselect                                 xpath                  //*[contains(@class,'multiselect')]
+languageSelect                                       xpath                  //*[text()='${Languages}']/following-sibling::*//*[contains(@class,'multiselect')]/following-sibling::*//li//*[text()='${selectlanguages}']
+skillsSearchselect                                   xpath                  //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']
+SkillsSelect                                         xpath                  //*[text()='${Skills}']/following-sibling::*//*[@id='${skillsValue}']
+countrySearchselect                                  xpath                  //*[contains(text(),'Select Country')]/following-sibling::*//*//*[@role='combobox']
+CountrySelectElements                                xpath                  //*[contains(text(),'${Select Country}')]/following-sibling::*//*[text()='${selectValue}']
+DateOfBirthSelectElements                            xpath                  //*[contains(text(),'Date Of Birth')]/following-sibling::*//*[@placeholder='${value}']
+PasswordandCPElements                                xpath                  //*[contains(text(),'${value}')]/following-sibling::*//*[@type='password']
+uploadImElements                                     css                    #imagesrc
+GenderandHobbiesElement                              xpath                   //*[contains(text(), '${Hobbies}')]/following-sibling::*//input
+
+
+===============================================================================================================================

@@ -1,0 +1,1941 @@
+2024-07-13 18:48:50,230 - orange01 -INFO - bookFreeDemoElementValidation__04 was pass
+2024-07-13 18:54:17,904 - orange01 -INFO - bookFreeDemoElementValidation__04 was pass
+2024-07-15 15:21:51,578 - orange01 -INFO - bookFreeDemoElementValidation__04 was pass
+2024-07-15 22:24:20,836 - orange01 -INFO - login to Application
+2024-07-16 14:46:29,250 - orange01 -INFO - login to Application
+2024-07-16 15:16:26,060 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 15:16:32,737 - orange01 -INFO - login to Application
+2024-07-16 15:16:32,982 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 15:21:22,656 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 15:21:29,917 - orange01 -INFO - login to Application
+2024-07-16 15:21:30,268 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 15:21:30,390 - orange01 -INFO - Assertion pass : field is Homeis displaying
+2024-07-16 15:27:14,675 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 15:27:22,415 - orange01 -INFO - login to Application
+2024-07-16 15:27:22,731 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 15:27:22,939 - orange01 -INFO - Assertion pass : field is Homeis displaying
+2024-07-16 15:27:23,130 - orange01 -INFO - Assertion pass : field is Registeris displaying
+2024-07-16 15:27:23,274 - orange01 -INFO - Assertion pass : field is WebTableis displaying
+2024-07-16 15:27:23,362 - orange01 -INFO - Assertion pass : field is SwitchTois displaying
+2024-07-16 15:27:23,458 - orange01 -INFO - Assertion pass : field is Widgetsis displaying
+2024-07-16 15:29:51,720 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 15:29:57,607 - orange01 -INFO - login to Application
+2024-07-16 15:29:57,869 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 15:32:09,821 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 15:32:18,591 - orange01 -INFO - login to Application
+2024-07-16 15:32:18,920 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 15:32:19,114 - orange01 -INFO - Assertion pass : field is Homeis displaying
+2024-07-16 15:32:19,272 - orange01 -INFO - Assertion pass : field is Registeris displaying
+2024-07-16 15:32:19,363 - orange01 -INFO - Assertion pass : field is WebTableis displaying
+2024-07-16 15:32:19,457 - orange01 -INFO - Assertion pass : field is SwitchTois displaying
+2024-07-16 15:32:19,570 - orange01 -INFO - Assertion pass : field is Widgetsis displaying
+2024-07-16 15:32:19,706 - orange01 -INFO - Assertion pass : field is Interactionsis displaying
+2024-07-16 15:32:19,808 - orange01 -INFO - Assertion pass : field is Videois displaying
+2024-07-16 15:32:19,906 - orange01 -INFO - Assertion pass : field is WYSIWYGis displaying
+2024-07-16 15:32:20,009 - orange01 -INFO - Assertion pass : field is Moreis displaying
+2024-07-16 15:32:20,122 - orange01 -INFO - Assertion pass : field is Practice Siteis displaying
+2024-07-16 15:55:43,915 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 15:55:50,913 - orange01 -INFO - login to Application
+2024-07-16 15:55:51,222 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 16:00:18,354 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 16:00:23,729 - orange01 -INFO - login to Application
+2024-07-16 16:00:23,966 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 16:05:36,125 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 16:05:44,104 - orange01 -INFO - login to Application
+2024-07-16 16:05:44,446 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 16:12:43,326 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 16:12:50,630 - orange01 -INFO - login to Application
+2024-07-16 16:12:50,879 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 16:20:52,823 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 16:21:06,448 - orange01 -INFO - login to Application
+2024-07-16 16:21:06,714 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 16:25:31,926 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 16:25:39,658 - orange01 -INFO - login to Application
+2024-07-16 16:25:39,931 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 16:37:55,299 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 16:38:02,789 - orange01 -INFO - login to Application
+2024-07-16 16:38:03,342 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 16:41:22,141 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 16:41:28,760 - orange01 -INFO - login to Application
+2024-07-16 16:41:29,055 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 17:22:49,545 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 17:23:30,597 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 17:23:36,619 - orange01 -INFO - login to Application
+2024-07-16 17:23:36,996 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 17:30:38,622 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 17:30:46,411 - orange01 -INFO - login to Application
+2024-07-16 17:30:46,835 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:10:46,683 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:10:52,243 - orange01 -INFO - login to Application
+2024-07-16 19:10:52,416 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:16:21,649 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:16:28,102 - orange01 -INFO - login to Application
+2024-07-16 19:16:28,303 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:19:40,149 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:19:46,366 - orange01 -INFO - login to Application
+2024-07-16 19:19:46,608 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:21:29,171 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:21:36,138 - orange01 -INFO - login to Application
+2024-07-16 19:21:36,318 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:22:24,538 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:22:30,734 - orange01 -INFO - login to Application
+2024-07-16 19:22:30,925 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:28:48,307 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:28:52,257 - orange01 -INFO - login to Application
+2024-07-16 19:28:52,414 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:38:37,738 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:38:41,294 - orange01 -INFO - login to Application
+2024-07-16 19:38:41,438 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:39:15,373 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:39:19,288 - orange01 -INFO - login to Application
+2024-07-16 19:39:19,456 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:43:48,418 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:43:53,169 - orange01 -INFO - login to Application
+2024-07-16 19:43:53,330 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:45:21,302 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:45:27,829 - orange01 -INFO - login to Application
+2024-07-16 19:45:28,077 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:48:01,114 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:48:07,179 - orange01 -INFO - login to Application
+2024-07-16 19:48:07,413 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:54:52,871 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:54:56,833 - orange01 -INFO - login to Application
+2024-07-16 19:54:56,983 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:56:53,355 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:56:58,700 - orange01 -INFO - login to Application
+2024-07-16 19:56:58,857 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 19:59:38,821 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 19:59:45,157 - orange01 -INFO - login to Application
+2024-07-16 19:59:45,389 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:01:42,330 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:01:46,150 - orange01 -INFO - login to Application
+2024-07-16 20:01:46,306 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:02:49,730 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:02:55,110 - orange01 -INFO - login to Application
+2024-07-16 20:02:55,342 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:03:33,350 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:03:38,542 - orange01 -INFO - login to Application
+2024-07-16 20:03:38,717 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:11:12,957 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:11:19,252 - orange01 -INFO - login to Application
+2024-07-16 20:11:19,504 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:12:51,047 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:12:55,164 - orange01 -INFO - login to Application
+2024-07-16 20:12:55,331 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:14:13,455 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:14:23,714 - orange01 -INFO - login to Application
+2024-07-16 20:14:23,904 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:14:55,086 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:15:00,523 - orange01 -INFO - login to Application
+2024-07-16 20:15:00,796 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:16:41,318 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:17:15,518 - orange01 -INFO - login to Application
+2024-07-16 20:17:15,690 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:18:38,196 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:18:42,289 - orange01 -INFO - login to Application
+2024-07-16 20:18:42,443 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:18:51,113 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:19:16,247 - orange01 -INFO - login to Application
+2024-07-16 20:19:24,925 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:23:50,972 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:23:56,289 - orange01 -INFO - login to Application
+2024-07-16 20:23:56,549 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:25:33,754 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:25:38,146 - orange01 -INFO - login to Application
+2024-07-16 20:25:38,306 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:26:41,120 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:26:44,957 - orange01 -INFO - login to Application
+2024-07-16 20:26:45,128 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:28:58,590 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:29:03,238 - orange01 -INFO - login to Application
+2024-07-16 20:29:03,397 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:30:19,484 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:30:23,573 - orange01 -INFO - login to Application
+2024-07-16 20:30:23,735 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:33:47,604 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:33:54,562 - orange01 -INFO - login to Application
+2024-07-16 20:33:54,736 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:39:36,051 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:39:47,910 - orange01 -INFO - login to Application
+2024-07-16 20:39:48,081 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:47:01,766 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:47:06,956 - orange01 -INFO - login to Application
+2024-07-16 20:47:07,111 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:48:05,664 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:48:09,641 - orange01 -INFO - login to Application
+2024-07-16 20:48:09,806 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:50:42,016 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:50:46,749 - orange01 -INFO - login to Application
+2024-07-16 20:50:46,910 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 20:54:58,913 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 20:55:09,850 - orange01 -INFO - login to Application
+2024-07-16 21:13:15,994 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 21:13:32,407 - orange01 -INFO - login to Application
+2024-07-16 21:13:32,602 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 21:14:44,227 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 21:14:48,448 - orange01 -INFO - login to Application
+2024-07-16 21:14:48,631 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 21:20:58,283 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 21:21:02,396 - orange01 -INFO - login to Application
+2024-07-16 21:21:02,554 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 21:28:01,310 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 21:28:05,131 - orange01 -INFO - login to Application
+2024-07-16 21:28:05,292 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 21:28:07,490 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-16 21:35:19,849 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 21:35:25,778 - orange01 -INFO - login to Application
+2024-07-16 21:35:25,939 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 21:49:27,450 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 21:49:32,259 - orange01 -INFO - login to Application
+2024-07-16 21:49:32,423 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 21:49:32,692 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 21:49:36,082 - orange01 -INFO - login to Application
+2024-07-16 21:49:36,229 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 21:49:38,444 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-16 21:49:40,645 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-16 21:49:42,895 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-16 21:49:45,097 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-16 21:49:47,295 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-16 22:30:07,533 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:30:13,524 - orange01 -INFO - login to Application
+2024-07-16 22:30:13,678 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:30:13,923 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:30:17,529 - orange01 -INFO - login to Application
+2024-07-16 22:30:17,684 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:30:19,893 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-16 22:30:22,077 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-16 22:30:24,351 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-16 22:30:26,553 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-16 22:30:28,753 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-16 22:31:57,153 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:32:01,189 - orange01 -INFO - login to Application
+2024-07-16 22:32:01,357 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:32:01,626 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:32:05,603 - orange01 -INFO - login to Application
+2024-07-16 22:32:05,769 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:32:07,980 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-16 22:32:10,177 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-16 22:32:12,343 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-16 22:32:14,545 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-16 22:32:16,705 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-16 22:40:29,152 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:40:33,111 - orange01 -INFO - login to Application
+2024-07-16 22:40:33,262 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:40:33,501 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:40:37,665 - orange01 -INFO - login to Application
+2024-07-16 22:40:37,800 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:40:39,996 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-16 22:40:42,212 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-16 22:40:44,403 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-16 22:40:46,578 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-16 22:40:48,753 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-16 22:51:06,751 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:51:13,246 - orange01 -INFO - login to Application
+2024-07-16 22:51:13,433 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:51:13,695 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:51:17,010 - orange01 -INFO - login to Application
+2024-07-16 22:51:17,160 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:51:19,375 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-16 22:51:21,559 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-16 22:51:23,728 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-16 22:51:25,884 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-16 22:51:28,051 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-16 22:52:43,691 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:53:27,650 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:53:33,145 - orange01 -INFO - login to Application
+2024-07-16 22:53:33,318 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:53:33,590 - orange01 -INFO - login to Application with chrome browser
+2024-07-16 22:53:38,672 - orange01 -INFO - login to Application
+2024-07-16 22:53:38,838 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-16 22:53:41,044 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-16 22:53:43,228 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-16 22:53:45,472 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-16 22:53:47,675 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-16 22:53:49,856 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 12:34:27,734 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 12:34:38,291 - orange01 -INFO - login to Application
+2024-07-17 12:34:38,593 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 12:34:39,141 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 12:35:07,209 - orange01 -INFO - login to Application
+2024-07-17 12:35:07,562 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 12:35:09,944 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 12:35:12,210 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 12:35:14,516 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 12:35:16,808 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 12:35:19,076 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 13:49:52,420 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 13:50:43,651 - orange01 -INFO - login to Application
+2024-07-17 13:50:44,002 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 13:50:44,364 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 13:50:51,897 - orange01 -INFO - login to Application
+2024-07-17 13:50:52,157 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 13:50:54,523 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 13:50:56,848 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 13:50:59,262 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 13:51:01,627 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 13:51:03,950 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 13:53:25,960 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 13:53:37,173 - orange01 -INFO - login to Application
+2024-07-17 13:53:37,565 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 13:53:38,069 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 13:53:45,949 - orange01 -INFO - login to Application
+2024-07-17 13:53:46,247 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 13:53:48,649 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 13:53:50,996 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 13:53:53,540 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 13:53:55,880 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 13:53:58,255 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 13:56:33,190 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 13:56:40,226 - orange01 -INFO - login to Application
+2024-07-17 13:56:40,432 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 13:56:40,761 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 13:56:48,084 - orange01 -INFO - login to Application
+2024-07-17 13:56:48,555 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 13:56:50,985 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 13:56:53,307 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 13:56:55,691 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 13:56:58,000 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 13:57:00,360 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:10:32,480 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:10:39,974 - orange01 -INFO - login to Application
+2024-07-17 14:10:40,190 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:10:40,496 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:10:53,437 - orange01 -INFO - login to Application
+2024-07-17 14:10:53,710 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:10:56,253 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:10:58,578 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:11:01,073 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:11:03,413 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:11:05,695 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:14:22,154 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:14:34,450 - orange01 -INFO - login to Application
+2024-07-17 14:14:34,805 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:14:35,156 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:14:51,760 - orange01 -INFO - login to Application
+2024-07-17 14:14:52,132 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:14:54,466 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:14:56,731 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:14:59,115 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:15:01,395 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:15:03,642 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:23:25,822 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:23:54,676 - orange01 -INFO - login to Application
+2024-07-17 14:23:55,001 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:23:55,387 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:24:05,181 - orange01 -INFO - login to Application
+2024-07-17 14:24:05,475 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:24:07,830 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:24:10,208 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:24:12,628 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:24:15,037 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:24:17,387 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:25:06,052 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:25:37,218 - orange01 -INFO - login to Application
+2024-07-17 14:25:37,521 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:25:38,091 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:25:45,388 - orange01 -INFO - login to Application
+2024-07-17 14:25:45,606 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:25:48,014 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:25:50,188 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:25:52,539 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:25:54,785 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:25:56,967 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:34:03,512 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:34:09,839 - orange01 -INFO - login to Application
+2024-07-17 14:34:10,015 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:34:10,304 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:34:14,759 - orange01 -INFO - login to Application
+2024-07-17 14:34:14,939 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:34:17,127 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:34:19,320 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:34:21,559 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:34:23,770 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:34:25,973 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:35:34,229 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:35:38,743 - orange01 -INFO - login to Application
+2024-07-17 14:35:38,896 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:35:39,150 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:35:44,395 - orange01 -INFO - login to Application
+2024-07-17 14:35:44,586 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:35:46,818 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:35:48,971 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:35:51,214 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:35:53,406 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:35:55,572 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:47:10,726 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:47:20,529 - orange01 -INFO - login to Application
+2024-07-17 14:47:20,705 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:47:20,981 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:47:30,100 - orange01 -INFO - login to Application
+2024-07-17 14:47:30,256 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:47:32,459 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:47:34,684 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:47:36,960 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:47:39,160 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:47:41,355 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:48:48,235 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:48:54,001 - orange01 -INFO - login to Application
+2024-07-17 14:48:54,186 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:48:54,424 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:49:06,171 - orange01 -INFO - login to Application
+2024-07-17 14:49:06,328 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:49:08,545 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:49:10,750 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:49:13,014 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:49:15,212 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:49:17,390 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 14:50:56,598 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:51:02,602 - orange01 -INFO - login to Application
+2024-07-17 14:51:02,867 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:51:03,119 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 14:51:08,180 - orange01 -INFO - login to Application
+2024-07-17 14:51:08,374 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 14:51:10,579 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 14:51:12,766 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 14:51:15,025 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 14:51:17,241 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 14:51:19,455 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 15:19:44,258 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:19:52,995 - orange01 -INFO - login to Application
+2024-07-17 15:19:53,200 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:19:53,482 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:19:58,063 - orange01 -INFO - login to Application
+2024-07-17 15:19:58,290 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:20:00,498 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 15:20:02,662 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 15:20:04,947 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 15:20:07,140 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 15:20:09,318 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 15:22:56,376 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:23:09,161 - orange01 -INFO - login to Application
+2024-07-17 15:23:09,375 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:23:09,621 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:23:37,262 - orange01 -INFO - login to Application
+2024-07-17 15:23:37,438 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:23:39,635 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 15:23:41,844 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 15:23:44,138 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 15:23:46,325 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 15:23:48,556 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 15:24:37,968 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:24:43,986 - orange01 -INFO - login to Application
+2024-07-17 15:24:44,163 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:24:44,424 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:24:52,487 - orange01 -INFO - login to Application
+2024-07-17 15:24:52,668 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:24:54,875 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 15:24:57,036 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 15:24:59,310 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 15:25:01,525 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 15:25:03,737 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 15:28:48,514 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:28:58,058 - orange01 -INFO - login to Application
+2024-07-17 15:28:58,261 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:28:58,524 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:29:03,473 - orange01 -INFO - login to Application
+2024-07-17 15:29:03,649 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:29:05,848 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 15:29:08,005 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 15:29:10,258 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 15:29:12,449 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 15:29:14,625 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 15:52:03,059 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:52:11,018 - orange01 -INFO - login to Application
+2024-07-17 15:52:11,196 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:52:11,506 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:52:17,130 - orange01 -INFO - login to Application
+2024-07-17 15:52:17,322 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:52:19,531 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 15:52:21,735 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 15:52:24,029 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 15:52:26,252 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 15:52:28,473 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 15:53:58,648 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:54:04,183 - orange01 -INFO - login to Application
+2024-07-17 15:54:04,393 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:54:04,734 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 15:54:09,759 - orange01 -INFO - login to Application
+2024-07-17 15:54:09,969 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 15:54:12,163 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 15:54:14,339 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 15:54:16,612 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 15:54:18,832 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 15:54:21,007 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 16:07:44,226 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:07:50,294 - orange01 -INFO - login to Application
+2024-07-17 16:07:50,506 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:07:50,832 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:07:55,723 - orange01 -INFO - login to Application
+2024-07-17 16:07:55,946 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:07:58,140 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 16:08:00,343 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 16:08:02,552 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 16:08:04,726 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 16:08:06,901 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 16:08:37,486 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 16:08:49,723 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 16:35:28,881 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:35:34,684 - orange01 -INFO - login to Application
+2024-07-17 16:35:34,880 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:35:35,181 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:35:40,185 - orange01 -INFO - login to Application
+2024-07-17 16:36:01,318 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:36:08,291 - orange01 -INFO - login to Application
+2024-07-17 16:36:08,510 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:36:08,807 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:36:13,479 - orange01 -INFO - login to Application
+2024-07-17 16:36:13,693 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:36:15,915 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 16:36:18,067 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 16:36:20,336 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 16:36:22,538 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 16:36:24,722 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 16:36:55,426 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 16:36:57,619 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 16:38:04,775 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:38:10,045 - orange01 -INFO - login to Application
+2024-07-17 16:38:10,214 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:38:10,495 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:38:15,544 - orange01 -INFO - login to Application
+2024-07-17 16:38:15,770 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:38:18,001 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 16:38:20,207 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 16:38:22,477 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 16:38:24,663 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 16:38:26,882 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 16:38:57,529 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 16:38:59,777 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 16:41:27,478 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:41:33,362 - orange01 -INFO - login to Application
+2024-07-17 16:41:33,527 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:41:33,815 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:41:39,320 - orange01 -INFO - login to Application
+2024-07-17 16:41:39,510 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:41:41,731 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 16:41:43,954 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 16:41:46,238 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 16:41:48,447 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 16:41:50,643 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 16:42:21,347 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 16:42:23,589 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 16:42:55,605 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:43:01,017 - orange01 -INFO - login to Application
+2024-07-17 16:43:01,217 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:43:01,492 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 16:43:06,589 - orange01 -INFO - login to Application
+2024-07-17 16:43:06,747 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 16:43:08,971 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 16:43:11,147 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 16:43:13,412 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 16:43:15,631 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 16:43:17,813 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 16:43:48,538 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 16:43:50,752 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 17:25:36,377 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 17:25:43,251 - orange01 -INFO - login to Application
+2024-07-17 17:25:43,467 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 17:25:44,426 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 17:25:50,251 - orange01 -INFO - login to Application
+2024-07-17 17:25:50,566 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 17:25:52,777 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 17:25:54,928 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 17:25:57,127 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 17:25:59,305 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 17:26:01,478 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 17:26:32,134 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 17:26:34,330 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 17:32:23,575 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 17:32:28,877 - orange01 -INFO - login to Application
+2024-07-17 17:32:29,122 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 17:32:29,384 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 17:32:34,453 - orange01 -INFO - login to Application
+2024-07-17 17:32:34,673 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 17:32:36,899 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 17:32:39,099 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 17:32:41,400 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 17:32:43,649 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 17:32:45,840 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 17:33:17,450 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 17:33:19,683 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 17:53:25,262 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 17:53:30,799 - orange01 -INFO - login to Application
+2024-07-17 17:53:31,010 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 17:53:31,299 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 17:53:36,791 - orange01 -INFO - login to Application
+2024-07-17 17:53:36,991 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 17:53:39,206 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 17:53:41,372 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 17:53:43,671 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 17:53:45,865 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 17:53:48,077 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 17:54:18,739 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 17:54:20,938 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 18:35:27,751 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 18:35:35,591 - orange01 -INFO - login to Application
+2024-07-17 18:35:35,781 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 18:35:36,079 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 18:35:41,739 - orange01 -INFO - login to Application
+2024-07-17 18:35:41,905 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 18:35:44,104 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 18:35:46,284 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 18:35:48,472 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 18:35:50,662 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 18:35:52,855 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 18:36:23,547 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 18:36:25,720 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 20:50:35,117 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:50:43,480 - orange01 -INFO - login to Application
+2024-07-17 20:50:43,655 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:50:43,949 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:50:49,208 - orange01 -INFO - login to Application
+2024-07-17 20:50:49,445 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:51:14,032 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:51:24,846 - orange01 -INFO - login to Application
+2024-07-17 20:51:25,134 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:51:25,429 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:51:29,088 - orange01 -INFO - login to Application
+2024-07-17 20:51:29,235 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:52:54,190 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:52:58,721 - orange01 -INFO - login to Application
+2024-07-17 20:52:58,883 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:52:59,147 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:53:04,080 - orange01 -INFO - login to Application
+2024-07-17 20:53:04,322 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:54:07,662 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:54:12,531 - orange01 -INFO - login to Application
+2024-07-17 20:54:12,703 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:54:12,971 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:54:18,755 - orange01 -INFO - login to Application
+2024-07-17 20:54:18,998 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:56:47,830 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:56:53,308 - orange01 -INFO - login to Application
+2024-07-17 20:56:53,590 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:56:53,889 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:56:59,175 - orange01 -INFO - login to Application
+2024-07-17 20:56:59,412 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:58:44,102 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:59:10,132 - orange01 -INFO - login to Application
+2024-07-17 20:59:10,355 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:59:10,630 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 20:59:14,303 - orange01 -INFO - login to Application
+2024-07-17 20:59:14,453 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 20:59:16,681 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 20:59:18,877 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 20:59:21,148 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 20:59:23,371 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 20:59:25,645 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 20:59:56,295 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 20:59:58,487 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:03:44,747 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:03:55,881 - orange01 -INFO - login to Application
+2024-07-17 21:03:56,122 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:03:56,410 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:04:00,994 - orange01 -INFO - login to Application
+2024-07-17 21:04:01,171 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:04:03,386 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:04:05,560 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:04:07,885 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:04:10,098 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:04:12,277 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:04:42,891 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:04:45,111 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:11:59,668 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:12:03,956 - orange01 -INFO - login to Application
+2024-07-17 21:12:04,138 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:12:04,418 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:12:08,123 - orange01 -INFO - login to Application
+2024-07-17 21:12:08,277 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:12:10,475 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:12:12,662 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:12:14,830 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:12:17,009 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:12:19,202 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:12:49,650 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:12:51,866 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:24:53,724 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:24:58,445 - orange01 -INFO - login to Application
+2024-07-17 21:24:58,626 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:24:58,906 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:25:04,742 - orange01 -INFO - login to Application
+2024-07-17 21:25:04,986 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:25:07,199 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:25:09,368 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:25:11,557 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:25:13,707 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:25:15,892 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:25:46,331 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:25:48,529 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:27:36,395 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:27:42,210 - orange01 -INFO - login to Application
+2024-07-17 21:27:42,441 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:27:42,730 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:27:46,304 - orange01 -INFO - login to Application
+2024-07-17 21:27:46,442 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:27:48,663 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:27:50,851 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:27:53,065 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:27:55,277 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:27:57,452 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:28:28,116 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:28:30,352 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:30:39,733 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:30:46,169 - orange01 -INFO - login to Application
+2024-07-17 21:30:46,411 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:30:46,670 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:30:50,199 - orange01 -INFO - login to Application
+2024-07-17 21:30:50,361 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:30:52,562 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:32:18,300 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:32:22,714 - orange01 -INFO - login to Application
+2024-07-17 21:32:22,878 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:32:23,159 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:32:28,401 - orange01 -INFO - login to Application
+2024-07-17 21:32:28,589 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:32:30,787 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:33:29,946 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:33:45,586 - orange01 -INFO - login to Application
+2024-07-17 21:33:45,784 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:33:46,018 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:33:51,879 - orange01 -INFO - login to Application
+2024-07-17 21:33:52,157 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:33:54,360 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:38:15,769 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:38:20,010 - orange01 -INFO - login to Application
+2024-07-17 21:38:20,236 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:38:20,471 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:38:25,636 - orange01 -INFO - login to Application
+2024-07-17 21:38:25,878 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:38:28,071 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:40:57,032 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:41:02,491 - orange01 -INFO - login to Application
+2024-07-17 21:41:02,663 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:41:02,928 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:41:07,829 - orange01 -INFO - login to Application
+2024-07-17 21:41:08,008 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:41:10,201 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:41:43,989 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:41:48,296 - orange01 -INFO - login to Application
+2024-07-17 21:41:48,475 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:41:48,761 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:41:53,810 - orange01 -INFO - login to Application
+2024-07-17 21:41:54,076 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:41:54,224 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 21:47:06,360 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:47:10,405 - orange01 -INFO - login to Application
+2024-07-17 21:47:10,561 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:47:10,856 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:47:14,460 - orange01 -INFO - login to Application
+2024-07-17 21:47:14,610 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:47:16,831 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:47:18,992 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:47:21,233 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:47:23,423 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:47:25,616 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:47:56,404 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:47:58,645 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:49:46,648 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:49:52,136 - orange01 -INFO - login to Application
+2024-07-17 21:49:52,342 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:49:52,605 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:49:57,342 - orange01 -INFO - login to Application
+2024-07-17 21:49:57,614 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:49:59,847 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:50:02,017 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:50:04,288 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:50:06,490 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:50:08,652 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:50:39,284 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:50:41,519 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:51:44,594 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:51:50,730 - orange01 -INFO - login to Application
+2024-07-17 21:51:50,909 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:51:51,147 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:51:54,715 - orange01 -INFO - login to Application
+2024-07-17 21:51:54,877 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:51:57,133 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:51:59,289 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:52:01,567 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:52:03,779 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:52:05,956 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:52:36,115 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:52:38,282 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:52:58,262 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 21:55:56,656 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:56:00,294 - orange01 -INFO - login to Application
+2024-07-17 21:56:00,479 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:56:00,758 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:56:03,936 - orange01 -INFO - login to Application
+2024-07-17 21:56:04,067 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:56:06,319 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:56:08,502 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:56:10,780 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:56:13,001 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:56:15,158 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:56:45,574 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:56:47,765 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:58:03,100 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:58:07,389 - orange01 -INFO - login to Application
+2024-07-17 21:58:07,546 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:58:07,791 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 21:58:11,484 - orange01 -INFO - login to Application
+2024-07-17 21:58:11,633 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 21:58:13,856 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 21:58:16,054 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 21:58:18,330 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 21:58:20,534 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 21:58:22,708 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 21:58:52,930 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 21:58:55,130 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 21:59:10,308 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:04:56,844 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:05:08,166 - orange01 -INFO - login to Application
+2024-07-17 22:05:08,449 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:05:08,713 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:05:12,522 - orange01 -INFO - login to Application
+2024-07-17 22:05:12,718 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:05:14,977 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 22:05:17,147 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 22:05:19,378 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 22:05:21,585 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 22:05:23,788 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 22:05:54,435 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 22:05:56,682 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 22:06:17,157 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:09:03,979 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:09:08,500 - orange01 -INFO - login to Application
+2024-07-17 22:09:08,680 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:09:08,952 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:09:12,519 - orange01 -INFO - login to Application
+2024-07-17 22:09:12,682 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:09:14,916 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 22:09:17,094 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 22:09:19,276 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 22:09:21,475 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 22:09:23,628 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 22:09:54,112 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 22:09:56,337 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 22:10:11,527 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:10:11,623 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:10:11,718 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:10:11,822 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:10:11,914 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:10:11,959 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:10:12,000 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:16:13,173 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:16:17,380 - orange01 -INFO - login to Application
+2024-07-17 22:16:17,533 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:16:17,789 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:16:22,474 - orange01 -INFO - login to Application
+2024-07-17 22:16:22,707 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:16:24,937 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 22:16:27,123 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 22:16:29,408 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 22:16:31,637 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 22:16:33,805 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 22:17:04,107 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 22:17:06,290 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 22:17:22,747 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:17:22,792 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:17:22,839 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:17:22,884 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:17:22,933 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:17:22,978 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:17:23,018 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:25:07,190 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:25:11,533 - orange01 -INFO - login to Application
+2024-07-17 22:25:11,688 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:25:11,942 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:25:15,971 - orange01 -INFO - login to Application
+2024-07-17 22:25:16,111 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:25:18,343 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 22:25:20,568 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 22:25:22,829 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 22:25:25,027 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 22:25:27,222 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 22:25:57,457 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 22:25:59,640 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 22:26:14,496 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:26:14,581 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:26:14,643 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:26:14,686 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:26:14,730 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:26:14,788 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:26:14,831 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:35:54,579 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:36:00,017 - orange01 -INFO - login to Application
+2024-07-17 22:36:00,181 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:36:00,443 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:36:04,157 - orange01 -INFO - login to Application
+2024-07-17 22:36:04,329 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:36:06,566 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-17 22:36:08,756 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-17 22:36:11,046 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-17 22:36:13,279 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-17 22:36:15,513 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-17 22:36:46,349 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-17 22:36:48,568 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-17 22:37:03,250 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:37:03,302 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:37:03,371 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:37:03,418 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:37:03,462 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:37:03,524 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:37:03,564 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:37:03,605 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:37:03,684 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:40:36,406 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:40:45,458 - orange01 -INFO - login to Application
+2024-07-17 22:40:45,689 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:40:45,942 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:40:53,627 - orange01 -INFO - login to Application
+2024-07-17 22:40:53,779 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:40:53,871 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:40:53,935 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:40:53,979 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:40:54,026 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:40:54,073 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:40:54,113 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:40:54,174 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:40:54,225 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:40:54,276 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:40:54,360 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-17 22:42:14,881 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:42:18,838 - orange01 -INFO - login to Application
+2024-07-17 22:42:18,988 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:42:19,237 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:42:23,243 - orange01 -INFO - login to Application
+2024-07-17 22:42:23,409 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:42:23,491 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:42:23,536 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:42:23,582 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:42:23,630 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:42:23,683 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:42:23,749 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:42:23,810 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:42:23,862 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:42:23,923 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:43:11,465 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:43:34,117 - orange01 -INFO - login to Application
+2024-07-17 22:43:34,297 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:43:34,539 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:43:38,177 - orange01 -INFO - login to Application
+2024-07-17 22:43:38,340 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:43:38,405 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:43:38,450 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:43:38,515 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:43:38,572 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:43:38,634 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:43:38,675 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:43:38,788 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:43:38,853 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:43:38,915 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:44:32,534 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:44:50,351 - orange01 -INFO - login to Application
+2024-07-17 22:44:50,565 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:44:50,818 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:45:01,484 - orange01 -INFO - login to Application
+2024-07-17 22:45:01,732 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:45:01,814 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:45:01,896 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:45:01,939 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:45:01,985 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:45:02,031 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:45:02,076 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:45:02,120 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:45:02,183 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:45:02,265 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:50:20,338 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:50:24,905 - orange01 -INFO - login to Application
+2024-07-17 22:50:25,066 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:50:25,314 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:50:29,137 - orange01 -INFO - login to Application
+2024-07-17 22:50:29,279 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:50:29,346 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:50:29,392 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:50:29,452 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:50:29,514 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:50:29,559 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:50:29,654 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:50:29,715 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:50:29,763 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:50:29,827 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:50:30,024 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-17 22:52:21,110 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:52:31,210 - orange01 -INFO - login to Application
+2024-07-17 22:52:31,376 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:52:31,677 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:52:36,193 - orange01 -INFO - login to Application
+2024-07-17 22:52:36,352 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:52:36,430 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:52:36,492 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:52:36,555 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:52:36,617 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:52:36,662 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:52:36,706 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:52:36,769 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:52:36,818 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:52:36,865 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:52:36,910 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-17 22:52:36,960 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-17 22:52:37,007 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-17 22:52:37,069 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-17 22:52:37,220 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-17 22:52:37,320 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-17 22:55:01,670 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:55:09,233 - orange01 -INFO - login to Application
+2024-07-17 22:55:09,459 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:55:09,726 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:55:17,092 - orange01 -INFO - login to Application
+2024-07-17 22:55:17,286 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:55:17,379 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:55:17,458 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:55:17,525 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:55:17,589 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:55:17,635 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:55:17,715 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:55:17,782 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:55:17,838 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:56:02,757 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:56:08,073 - orange01 -INFO - login to Application
+2024-07-17 22:56:08,242 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:56:08,480 - orange01 -INFO - login to Application with chrome browser
+2024-07-17 22:56:14,423 - orange01 -INFO - login to Application
+2024-07-17 22:56:14,604 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-17 22:56:14,670 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-17 22:56:14,715 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-17 22:56:14,762 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-17 22:56:14,823 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-17 22:56:14,869 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-17 22:56:14,913 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-17 22:56:15,022 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-17 22:56:15,087 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-17 22:56:15,131 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-17 22:56:15,212 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-17 22:56:15,343 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-17 22:56:15,396 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-17 22:56:15,474 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-17 22:56:15,537 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-17 22:56:15,612 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-17 22:56:15,693 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-18 11:28:38,275 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 11:28:47,508 - orange01 -INFO - login to Application
+2024-07-18 11:28:47,828 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 11:28:48,152 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 11:28:55,446 - orange01 -INFO - login to Application
+2024-07-18 11:28:55,757 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 11:28:58,113 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 11:29:00,454 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 11:29:02,782 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 11:29:05,138 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 11:29:07,492 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 11:29:39,870 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 11:29:42,250 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 11:29:58,835 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-18 11:29:58,921 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-18 11:29:59,019 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-18 11:29:59,109 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-18 11:29:59,202 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-18 11:29:59,311 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-18 11:29:59,392 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-18 11:29:59,505 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-18 11:29:59,620 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-18 11:29:59,709 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-18 11:29:59,806 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-18 11:29:59,885 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-18 11:29:59,977 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-18 11:30:00,070 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-18 11:30:00,199 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-18 11:30:00,316 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-18 11:30:00,764 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 11:30:08,610 - orange01 -INFO - login to Application
+2024-07-18 11:30:08,944 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 11:30:11,194 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 11:30:13,466 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 11:30:15,794 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 11:30:18,052 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 11:30:20,489 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 11:30:52,971 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 11:30:55,318 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 11:39:48,534 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 11:40:00,467 - orange01 -INFO - login to Application
+2024-07-18 11:40:01,289 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 11:40:04,342 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 11:40:06,830 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 11:40:10,138 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 11:40:12,682 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 11:40:15,289 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 11:40:49,090 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 11:40:51,767 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 11:43:00,226 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 11:43:35,612 - orange01 -INFO - login to Application
+2024-07-18 11:43:36,545 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 11:43:39,659 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 11:43:42,354 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 11:43:45,468 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 11:43:48,179 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 11:43:51,261 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 11:44:27,205 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 11:44:30,072 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 13:30:51,844 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 13:31:02,388 - orange01 -INFO - login to Application
+2024-07-18 13:31:02,715 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 13:31:03,147 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 13:31:10,815 - orange01 -INFO - login to Application
+2024-07-18 13:31:11,169 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 13:31:13,592 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 13:31:15,927 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 13:31:18,259 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 13:31:20,551 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 13:31:22,929 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 13:31:54,433 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 13:31:56,715 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 13:32:09,271 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 13:32:16,707 - orange01 -INFO - login to Application
+2024-07-18 13:32:16,957 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 13:32:19,287 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 13:32:21,838 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 13:32:24,386 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 13:32:26,732 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 13:32:29,086 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 13:32:58,450 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 13:33:06,573 - orange01 -INFO - login to Application
+2024-07-18 13:33:06,852 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 13:33:07,284 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 13:33:14,706 - orange01 -INFO - login to Application
+2024-07-18 13:33:14,998 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 13:33:17,288 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 13:33:19,573 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 13:33:21,940 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 13:33:24,208 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 13:33:26,542 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 13:33:58,332 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 13:34:00,628 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 13:34:13,137 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 13:34:20,345 - orange01 -INFO - login to Application
+2024-07-18 13:34:20,575 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 13:34:22,958 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 13:34:25,409 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 13:34:27,788 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 13:34:30,112 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 13:34:32,526 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 13:35:03,646 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 13:35:05,885 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 14:06:24,414 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 14:06:47,621 - orange01 -INFO - login to Application
+2024-07-18 14:06:48,053 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 14:06:48,618 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 14:06:55,618 - orange01 -INFO - login to Application
+2024-07-18 14:06:55,857 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 14:06:58,252 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 14:07:00,752 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 14:07:03,213 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 14:07:05,568 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 14:07:07,913 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 14:07:39,919 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 14:07:42,245 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 14:07:54,827 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 14:08:02,746 - orange01 -INFO - login to Application
+2024-07-18 14:08:03,122 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 14:08:05,521 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 14:08:07,891 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 14:08:10,207 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 14:08:12,511 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 14:08:14,766 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 14:08:46,911 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 14:08:49,318 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 16:31:26,900 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 16:31:39,060 - orange01 -INFO - login to Application
+2024-07-18 16:31:39,352 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 16:31:39,925 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 16:31:45,755 - orange01 -INFO - login to Application
+2024-07-18 16:31:45,995 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 16:31:49,297 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 16:31:51,955 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 16:31:54,590 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 16:31:57,293 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 16:32:00,150 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 16:32:32,363 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 16:32:34,881 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 16:32:48,068 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 16:32:54,334 - orange01 -INFO - login to Application
+2024-07-18 16:32:54,546 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 16:32:57,005 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 16:32:59,807 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 16:33:02,245 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 16:33:04,573 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 16:33:07,053 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 16:33:40,409 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 16:33:42,792 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 22:03:04,325 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 22:03:16,018 - orange01 -INFO - login to Application
+2024-07-18 22:03:16,552 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 22:03:17,402 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 22:03:22,645 - orange01 -INFO - login to Application
+2024-07-18 22:03:22,890 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 22:03:25,363 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 22:03:27,675 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 22:03:29,977 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 22:03:32,274 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 22:03:34,557 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 22:04:06,461 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 22:04:08,708 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 22:04:21,857 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 22:04:27,390 - orange01 -INFO - login to Application
+2024-07-18 22:04:27,630 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 22:04:29,954 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 22:04:32,241 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 22:04:34,588 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 22:04:36,898 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 22:04:39,171 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 22:05:10,324 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 22:05:12,554 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 22:32:57,336 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 22:34:09,206 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 22:34:17,319 - orange01 -INFO - login to Application
+2024-07-18 22:34:17,711 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 22:34:17,783 - orange01 -INFO - login to Application with chrome browser
+2024-07-18 22:34:25,874 - orange01 -INFO - login to Application
+2024-07-18 22:34:26,197 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-18 22:34:28,426 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-18 22:34:30,673 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-18 22:34:32,905 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-18 22:34:35,159 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-18 22:34:37,348 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-18 22:35:07,913 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-18 22:35:10,169 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-18 22:35:22,572 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:16:24,928 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:16:35,306 - orange01 -INFO - login to Application
+2024-07-22 11:16:35,554 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:16:35,671 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:16:43,008 - orange01 -INFO - login to Application
+2024-07-22 11:16:43,320 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:16:45,812 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:16:48,044 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:16:50,296 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:19:36,632 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:19:44,484 - orange01 -INFO - login to Application
+2024-07-22 11:19:44,738 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:19:45,114 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:19:53,241 - orange01 -INFO - login to Application
+2024-07-22 11:19:53,457 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:19:55,799 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:19:58,146 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:20:00,580 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:20:02,940 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:20:05,277 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:20:36,593 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 11:20:38,861 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 11:20:57,864 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 11:20:57,952 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 11:20:58,043 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 11:20:58,116 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 11:20:58,166 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 11:20:58,240 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 11:20:58,304 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 11:20:58,393 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 11:20:58,472 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 11:20:58,550 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 11:20:58,624 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 11:20:58,723 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 11:20:58,819 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 11:20:58,910 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 11:20:59,001 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 11:20:59,085 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 11:20:59,781 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:21:05,512 - orange01 -INFO - login to Application
+2024-07-22 11:21:05,710 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:21:08,057 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:21:10,372 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:21:12,776 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:21:15,075 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:21:17,345 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:21:48,766 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 11:21:51,029 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 11:29:59,338 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:30:09,498 - orange01 -INFO - login to Application
+2024-07-22 11:30:09,914 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:30:10,499 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:30:18,861 - orange01 -INFO - login to Application
+2024-07-22 11:30:19,085 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:30:21,416 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:30:23,720 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:30:26,176 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:30:28,503 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:30:30,806 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:30:51,126 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:30:57,636 - orange01 -INFO - login to Application
+2024-07-22 11:30:57,854 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:31:00,183 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:31:02,479 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:31:04,934 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:31:07,266 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:31:09,576 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:36:17,663 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:36:28,744 - orange01 -INFO - login to Application
+2024-07-22 11:36:29,154 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:36:29,709 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:36:36,124 - orange01 -INFO - login to Application
+2024-07-22 11:36:36,376 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:36:38,813 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:36:41,115 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:36:43,610 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:36:45,964 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:36:48,309 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:37:19,737 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 11:37:22,056 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 11:37:39,688 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 11:37:39,780 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 11:37:39,856 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 11:37:39,936 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 11:37:40,013 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 11:37:40,080 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 11:37:40,162 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 11:37:40,248 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 11:37:40,320 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 11:37:40,403 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 11:37:40,470 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 11:37:40,559 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 11:37:40,637 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 11:37:40,715 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 11:37:40,794 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 11:37:40,872 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 11:37:41,573 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:37:47,530 - orange01 -INFO - login to Application
+2024-07-22 11:37:47,742 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:37:50,050 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:37:52,314 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:37:54,616 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:37:56,852 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:37:59,063 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:38:30,464 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 11:38:32,743 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 11:38:56,996 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:39:04,614 - orange01 -INFO - login to Application
+2024-07-22 11:39:04,867 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:39:05,310 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:39:11,745 - orange01 -INFO - login to Application
+2024-07-22 11:39:11,948 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:39:14,301 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:39:16,647 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:39:19,087 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:39:21,426 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:39:23,817 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:39:55,164 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 11:39:57,439 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 11:40:12,605 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 11:40:12,695 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 11:40:12,792 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 11:40:12,883 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 11:40:12,976 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 11:40:13,076 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 11:40:13,157 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 11:40:13,234 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 11:40:13,317 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 11:40:13,405 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 11:40:13,498 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 11:40:13,592 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 11:40:13,687 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 11:40:13,792 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 11:40:13,883 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 11:40:13,971 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 11:40:14,565 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 11:40:20,364 - orange01 -INFO - login to Application
+2024-07-22 11:40:20,559 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 11:40:22,860 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 11:40:25,177 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 11:40:27,687 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 11:40:30,097 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 11:40:32,408 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 11:41:04,165 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 11:41:06,477 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 13:00:05,626 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:00:12,630 - orange01 -INFO - login to Application
+2024-07-22 13:00:12,920 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:00:13,276 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:00:32,025 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:00:40,305 - orange01 -INFO - login to Application
+2024-07-22 13:00:40,679 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:00:41,032 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:36:20,584 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:36:27,751 - orange01 -INFO - login to Application
+2024-07-22 13:36:28,074 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:36:28,415 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:36:34,828 - orange01 -INFO - login to Application
+2024-07-22 13:36:35,061 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:36:37,683 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 13:36:40,149 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 13:36:42,852 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 13:36:45,398 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 13:36:48,146 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 13:37:20,472 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 13:37:22,935 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 13:37:38,723 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 13:37:38,811 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 13:37:38,905 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 13:37:39,002 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 13:37:39,098 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 13:37:39,179 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 13:37:39,284 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 13:37:39,389 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 13:37:39,476 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 13:37:39,575 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 13:37:39,662 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 13:37:39,748 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 13:37:39,849 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 13:37:39,936 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 13:37:40,029 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 13:37:40,126 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 13:37:40,496 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:37:46,598 - orange01 -INFO - login to Application
+2024-07-22 13:37:46,950 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:37:49,332 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 13:37:51,694 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 13:37:54,186 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 13:37:56,530 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 13:37:58,944 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 13:38:30,657 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 13:38:32,999 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 13:41:07,194 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:41:14,281 - orange01 -INFO - login to Application
+2024-07-22 13:41:14,607 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:41:14,923 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:41:19,443 - orange01 -INFO - login to Application
+2024-07-22 13:41:19,650 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:41:22,298 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 13:41:24,755 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 13:41:27,369 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 13:41:29,938 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 13:41:32,552 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 13:42:04,496 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 13:42:06,820 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 13:42:42,507 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 13:42:42,593 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 13:42:42,687 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 13:42:42,777 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 13:42:42,858 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 13:42:42,942 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 13:42:43,017 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 13:42:43,110 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 13:42:43,199 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 13:42:43,305 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 13:42:43,382 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 13:42:43,462 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 13:42:43,556 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 13:42:43,647 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 13:42:43,731 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 13:42:43,812 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 13:42:44,167 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 13:42:48,540 - orange01 -INFO - login to Application
+2024-07-22 13:42:48,735 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 13:42:51,369 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 13:42:53,829 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 13:42:56,417 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 13:42:58,932 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 13:43:01,627 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 13:43:33,864 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 13:43:36,302 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:10:45,014 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:10:54,811 - orange01 -INFO - login to Application
+2024-07-22 14:10:55,029 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:10:55,387 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:11:21,944 - orange01 -INFO - login to Application
+2024-07-22 14:11:22,257 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:11:24,991 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:11:27,427 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:11:29,885 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:11:32,375 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:11:34,738 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 14:12:06,835 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 14:12:09,181 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:12:25,251 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 14:12:25,339 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 14:12:25,433 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 14:12:25,531 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 14:12:25,621 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 14:12:25,703 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 14:12:25,783 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 14:12:25,870 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 14:12:25,963 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 14:12:26,051 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 14:12:26,140 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 14:12:26,223 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 14:12:26,315 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 14:12:26,411 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 14:12:26,506 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 14:12:26,600 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 14:12:27,011 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:12:33,725 - orange01 -INFO - login to Application
+2024-07-22 14:12:34,030 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:12:36,635 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:12:39,052 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:12:41,568 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:12:44,229 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:12:46,654 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 14:13:19,297 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 14:13:21,628 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:37:45,381 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:37:56,081 - orange01 -INFO - login to Application
+2024-07-22 14:37:56,372 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:37:56,752 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:38:01,669 - orange01 -INFO - login to Application
+2024-07-22 14:38:01,958 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:38:04,340 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:38:06,963 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:38:09,495 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:38:11,916 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:38:14,337 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 14:38:46,454 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 14:38:48,815 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:39:24,417 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 14:39:24,513 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 14:39:24,605 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 14:39:24,694 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 14:39:24,789 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 14:39:24,873 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 14:39:24,977 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 14:39:25,071 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 14:39:25,164 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 14:39:25,259 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 14:39:25,348 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 14:39:25,446 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 14:39:25,530 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 14:39:25,619 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 14:39:25,705 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 14:39:25,801 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 14:39:26,231 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:39:31,084 - orange01 -INFO - login to Application
+2024-07-22 14:39:31,332 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:39:33,636 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:39:35,976 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:39:38,419 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:39:40,907 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:39:43,281 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 14:40:15,391 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 14:40:17,731 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:50:43,999 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:50:50,818 - orange01 -INFO - login to Application
+2024-07-22 14:50:51,112 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:50:51,442 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:50:58,410 - orange01 -INFO - login to Application
+2024-07-22 14:50:58,770 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:51:01,163 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:51:03,617 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:51:06,206 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:51:08,611 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:51:11,069 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 14:51:43,178 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 14:51:45,693 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:52:01,672 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 14:52:01,759 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 14:52:01,851 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 14:52:01,946 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 14:52:02,037 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 14:52:02,101 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 14:52:02,185 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 14:52:02,271 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 14:52:02,350 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 14:52:02,426 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 14:52:02,477 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 14:52:02,569 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 14:52:02,683 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 14:52:02,799 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 14:52:02,920 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 14:52:03,024 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 14:52:03,411 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:52:08,117 - orange01 -INFO - login to Application
+2024-07-22 14:52:08,427 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:52:10,881 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:52:13,287 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:52:16,144 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:52:18,634 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:52:21,256 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 14:52:53,753 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 14:52:56,159 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:53:24,819 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:53:32,716 - orange01 -INFO - login to Application
+2024-07-22 14:53:33,074 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:53:33,442 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:53:41,434 - orange01 -INFO - login to Application
+2024-07-22 14:53:41,736 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:53:44,245 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:53:46,655 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:53:49,256 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:53:51,721 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:53:54,124 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 14:54:26,272 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 14:54:28,617 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 14:54:43,726 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 14:54:43,817 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 14:54:43,898 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 14:54:43,990 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 14:54:44,086 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 14:54:44,174 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 14:54:44,266 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 14:54:44,356 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 14:54:44,439 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 14:54:44,534 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 14:54:44,616 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 14:54:44,708 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 14:54:44,807 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 14:54:44,901 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 14:54:44,986 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 14:54:45,085 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 14:54:45,511 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 14:54:51,474 - orange01 -INFO - login to Application
+2024-07-22 14:54:51,768 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 14:54:54,464 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 14:54:56,841 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 14:54:59,216 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 14:55:01,559 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 14:55:03,976 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 15:09:41,215 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:09:49,850 - orange01 -INFO - login to Application
+2024-07-22 15:09:50,124 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:09:50,409 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:09:57,345 - orange01 -INFO - login to Application
+2024-07-22 15:09:57,624 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:10:32,965 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:10:41,178 - orange01 -INFO - login to Application
+2024-07-22 15:10:41,549 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:10:41,853 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:10:46,523 - orange01 -INFO - login to Application
+2024-07-22 15:10:46,749 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:10:49,265 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 15:10:51,687 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 15:10:54,704 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 15:10:57,263 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 15:10:59,713 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 15:23:55,257 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:24:03,944 - orange01 -INFO - login to Application
+2024-07-22 15:24:04,521 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:24:04,838 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:24:09,593 - orange01 -INFO - login to Application
+2024-07-22 15:24:09,939 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:24:12,496 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 15:24:14,823 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 15:24:17,450 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 15:24:19,856 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 15:24:22,248 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 15:24:54,560 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 15:24:56,908 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 15:25:12,606 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 15:25:12,700 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 15:25:12,783 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 15:25:12,878 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 15:25:12,973 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 15:25:13,051 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 15:25:13,131 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 15:25:13,223 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 15:25:13,308 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 15:25:13,390 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 15:25:13,480 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 15:25:13,561 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 15:25:13,656 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 15:25:13,748 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 15:25:13,842 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 15:25:13,936 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 15:25:14,290 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:25:19,120 - orange01 -INFO - login to Application
+2024-07-22 15:25:19,397 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:25:21,816 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 15:25:24,252 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 15:29:04,289 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:29:14,201 - orange01 -INFO - login to Application
+2024-07-22 15:29:14,468 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:32:37,990 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:32:45,143 - orange01 -INFO - login to Application
+2024-07-22 15:32:45,458 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:37:50,203 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:37:56,820 - orange01 -INFO - login to Application
+2024-07-22 15:37:57,204 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:37:57,524 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:38:49,913 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:38:56,795 - orange01 -INFO - login to Application
+2024-07-22 15:38:57,105 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:38:57,450 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:39:02,907 - orange01 -INFO - login to Application
+2024-07-22 15:39:03,172 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:39:05,760 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 15:39:08,142 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 15:39:10,617 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 15:39:13,039 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 15:39:15,407 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 15:39:47,244 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 15:39:49,596 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 15:40:04,670 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 15:40:04,757 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 15:40:04,850 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 15:40:04,933 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 15:40:05,024 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 15:40:05,122 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 15:40:05,206 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 15:40:05,286 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 15:40:05,391 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 15:40:05,489 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 15:40:05,582 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 15:40:05,675 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 15:40:05,754 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 15:40:05,834 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 15:40:05,934 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 15:40:06,027 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 15:40:06,406 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:40:10,674 - orange01 -INFO - login to Application
+2024-07-22 15:40:10,855 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:40:13,164 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 15:40:15,650 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 15:40:18,645 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 15:40:21,135 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 15:40:23,820 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 15:40:56,472 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 15:40:58,862 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 15:42:52,015 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:42:58,327 - orange01 -INFO - login to Application
+2024-07-22 15:42:58,720 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:42:59,050 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:54:42,095 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:54:50,438 - orange01 -INFO - login to Application
+2024-07-22 15:54:50,721 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:54:51,071 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:54:56,045 - orange01 -INFO - login to Application
+2024-07-22 15:54:56,414 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:54:59,059 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 15:58:38,384 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:58:46,310 - orange01 -INFO - login to Application
+2024-07-22 15:58:46,617 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 15:58:46,961 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 15:58:51,669 - orange01 -INFO - login to Application
+2024-07-22 15:58:51,914 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:12:32,718 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:15:16,676 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:15:24,613 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:17:34,384 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:17:38,537 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:17:40,676 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:18:27,193 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:18:31,766 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:18:33,741 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:23:11,834 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:23:15,737 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:23:17,704 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:27:07,589 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:27:12,380 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:27:14,306 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:28:37,349 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:28:40,612 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:28:42,577 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:32:21,103 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:32:24,510 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:32:26,630 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:39:06,528 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:39:15,068 - orange01 -INFO - login to Application
+2024-07-22 16:39:15,475 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:39:15,808 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:39:20,565 - orange01 -INFO - login to Application
+2024-07-22 16:39:20,862 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:39:23,410 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 16:39:25,820 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 16:39:28,355 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 16:39:30,810 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 16:42:55,029 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:43:04,494 - orange01 -INFO - login to Application
+2024-07-22 16:43:04,830 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:43:05,146 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:43:12,041 - orange01 -INFO - login to Application
+2024-07-22 16:43:12,353 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:43:14,966 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 16:43:17,382 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 16:43:19,869 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 16:43:22,407 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 16:43:24,908 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 16:43:57,587 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 16:43:59,935 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 16:44:15,042 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-22 16:44:15,133 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-22 16:44:15,222 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-22 16:44:15,325 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-22 16:44:15,396 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-22 16:44:15,515 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-22 16:44:15,601 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-22 16:44:15,693 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-22 16:44:15,775 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-22 16:44:15,873 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-22 16:44:15,945 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-22 16:44:16,035 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-22 16:44:16,125 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-22 16:44:16,216 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-22 16:44:16,298 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-22 16:44:16,394 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-22 16:44:16,742 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:44:21,361 - orange01 -INFO - login to Application
+2024-07-22 16:44:21,573 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:44:24,177 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 16:44:26,543 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 16:44:29,087 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 16:44:31,552 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 16:44:33,956 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 16:45:06,215 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 16:45:08,663 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 16:48:08,294 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:48:47,664 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:49:26,261 - orange01 -INFO - login to Application
+2024-07-22 16:49:26,569 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:49:26,894 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:50:17,185 - orange01 -INFO - login to Application
+2024-07-22 16:50:17,450 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:50:20,059 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 16:50:22,444 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 16:50:24,883 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 16:50:27,305 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 16:50:29,734 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 16:51:03,405 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 16:51:22,476 - orange01 -INFO - login to Application
+2024-07-22 16:51:22,674 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-22 16:51:25,316 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-22 16:51:27,610 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-22 16:51:30,093 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-22 16:51:32,411 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-22 16:51:34,722 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-22 16:52:07,189 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-22 16:52:09,516 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-22 17:19:23,234 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:19:26,978 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:19:28,830 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:25:44,820 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:25:49,257 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:25:51,374 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:36:42,180 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:36:46,993 - orange01 -INFO - login to Application with chrome browser
+2024-07-22 17:36:49,164 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:33:23,230 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:33:28,623 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:33:30,899 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:48:04,152 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:48:07,564 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:48:09,957 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:49:00,674 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:49:04,089 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:49:06,407 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:49:40,371 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:49:43,701 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:49:46,082 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:50:59,851 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:51:03,168 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:51:05,482 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:52:33,294 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:52:36,548 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:52:38,776 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:53:42,721 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:53:46,054 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:53:48,329 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:54:51,725 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:54:55,051 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:54:57,369 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:57:56,049 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:57:59,742 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 11:58:02,122 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:00:43,551 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:00:47,051 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:00:49,441 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:02:13,157 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:02:16,648 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:02:18,910 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:04:13,168 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:04:16,790 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:04:19,300 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:05:06,177 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:05:09,690 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:05:12,134 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:10:48,790 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:10:52,203 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:10:54,498 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:13:16,631 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:13:20,139 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:13:22,638 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:22:02,748 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:22:06,141 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:22:08,759 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:23:23,696 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:23:27,070 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:23:29,497 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:24:06,534 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:24:09,913 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:24:12,197 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:29:20,366 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:29:23,711 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:29:25,961 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:30:43,497 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:30:46,853 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:30:49,138 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:33:34,449 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:33:38,706 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:33:40,930 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:35:13,546 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:35:17,732 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:35:20,362 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:40:58,212 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:41:01,740 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:41:04,050 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:47:32,091 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:47:35,952 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:47:38,604 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:52:22,463 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:52:25,881 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:52:28,521 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:52:58,632 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:53:01,987 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:53:04,308 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:55:59,500 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:56:03,038 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:56:05,232 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:59:16,313 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:59:18,202 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 12:59:19,353 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 13:00:28,768 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 13:00:30,925 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 13:00:32,263 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 13:05:23,276 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 13:05:25,182 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 13:05:26,371 - orange01 -INFO - login to Application with chrome browser
+2024-07-23 18:05:40,334 - orange01 -INFO - login to Application
+2024-07-23 18:05:40,508 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-23 18:05:44,730 - orange01 -INFO - login to Application
+2024-07-23 18:05:44,889 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-23 18:05:47,156 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-23 18:05:49,353 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-23 18:05:51,546 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-23 18:05:53,721 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-23 18:05:55,892 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-23 18:06:26,649 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-23 18:06:28,842 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-23 18:06:43,985 - orange01 -INFO - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-23 18:06:44,030 - orange01 -INFO - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-23 18:06:44,109 - orange01 -INFO - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-23 18:06:44,151 - orange01 -INFO - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-23 18:06:44,197 - orange01 -INFO - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-23 18:06:44,268 - orange01 -INFO - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-23 18:06:44,338 - orange01 -INFO - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-23 18:06:44,417 - orange01 -INFO - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-23 18:06:44,462 - orange01 -INFO - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-23 18:06:44,522 - orange01 -INFO - Assertion pass : Field is Empty country!!!!!!!
+2024-07-23 18:06:44,566 - orange01 -INFO - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-23 18:06:44,616 - orange01 -INFO - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-23 18:06:44,697 - orange01 -INFO - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-23 18:06:44,776 - orange01 -INFO - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-23 18:06:44,835 - orange01 -INFO - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-23 18:06:44,881 - orange01 -INFO - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-23 18:06:49,061 - orange01 -INFO - login to Application
+2024-07-23 18:06:49,212 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-23 18:06:51,442 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-23 18:06:53,625 - orange01 -INFO - Assertion pass : Insert Data into last Name
+2024-07-23 18:06:55,881 - orange01 -INFO - Assertion pass : Insert Data into Adress
+2024-07-23 18:06:58,084 - orange01 -INFO - Assertion pass : Insert Data into Email address
+2024-07-23 18:07:00,286 - orange01 -INFO - Assertion pass : Insert Data into Phone
+2024-07-23 18:07:30,798 - orange01 -INFO - Assertion pass : Insert Data into Password
+2024-07-23 18:07:33,034 - orange01 -INFO - Assertion pass : Insert Data into Confirm Password
+2024-07-23 18:16:47,237 - orange01 -INFO - login to Application
+2024-07-23 18:16:47,402 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-23 18:16:51,504 - orange01 -INFO - login to Application
+2024-07-23 18:16:51,682 - orange01 -INFO - login to Application and title of pageRegister
+2024-07-23 18:16:53,907 - orange01 -INFO - Assertion pass : Insert Data into First Name
+2024-07-23 18:16:56,104 - orange01 -INFO - Assertion pass : Insert Data into last Name
