@@ -20,7 +20,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.*;
 import org.testng.Reporter;
 
-import com.education.testCases.BaseClass;
+import com.Cucumber_BDD_Hybrid.testCases.BaseClass;
 
 import static com.Cucumber_BDD_Hybrid.testCases.ObjectFileReader.getPageTitleFromFile;
 import static org.testng.Assert.assertTrue;
