@@ -1939,3 +1939,762 @@
 2024-07-23 18:16:51,682 [main] INFO orange01 - login to Application and title of pageRegister
 2024-07-23 18:16:53,907 [main] INFO orange01 - Assertion pass : Insert Data into First Name
 2024-07-23 18:16:56,104 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-23 20:11:56,703 [main] INFO orange01 - login to Application
+2024-07-23 20:11:56,878 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 20:12:01,399 [main] INFO orange01 - login to Application
+2024-07-23 20:12:01,556 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 20:12:03,751 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-23 20:12:05,941 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-23 20:12:08,143 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-23 20:12:10,331 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-23 20:12:12,500 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-23 20:12:43,092 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-23 20:12:45,263 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-23 20:13:00,457 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-23 20:13:00,501 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-23 20:13:00,549 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-23 20:13:00,594 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-23 20:13:00,641 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-23 20:13:00,702 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-23 20:13:00,743 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-23 20:13:00,830 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-23 20:13:00,874 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-23 20:13:00,920 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-23 20:13:00,962 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-23 20:13:01,030 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-23 20:13:01,090 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-23 20:13:01,154 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-23 20:13:01,215 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-23 20:13:01,261 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-23 20:13:08,401 [main] INFO orange01 - login to Application
+2024-07-23 20:13:08,540 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 20:13:10,776 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-23 20:13:12,985 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-23 20:13:15,287 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-23 20:13:17,517 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-23 20:13:19,741 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-23 20:23:37,461 [main] INFO orange01 - login to Application
+2024-07-23 20:23:37,678 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 20:23:41,848 [main] INFO orange01 - login to Application
+2024-07-23 20:32:34,691 [main] INFO orange01 - login to Application
+2024-07-23 20:32:34,892 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:15:57,680 [main] INFO orange01 - login to Application
+2024-07-23 21:15:57,849 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:31:09,094 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:31:13,285 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:31:15,502 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-23 21:31:17,726 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-23 21:31:20,001 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-23 21:31:22,196 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-23 21:31:24,400 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-23 21:38:13,963 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:38:22,672 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:38:24,892 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-23 21:38:27,089 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-23 21:38:29,272 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-23 21:38:31,450 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-23 21:38:33,630 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-23 21:39:04,057 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-23 21:39:06,266 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-23 21:39:23,644 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:39:29,868 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:39:32,069 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-23 21:40:06,087 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:40:14,249 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:40:33,229 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:40:38,129 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:40:40,338 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-23 21:40:42,520 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-23 21:40:44,783 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-23 21:40:47,040 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-23 21:40:49,249 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-23 21:41:19,840 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-23 21:41:22,038 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-23 21:41:56,647 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-23 21:41:56,701 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-23 21:41:56,747 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-23 21:41:56,808 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-23 21:41:56,854 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-23 21:41:56,894 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-23 21:41:56,969 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-23 21:41:57,009 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-23 21:41:57,078 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-23 21:41:57,151 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-23 21:41:57,192 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-23 21:41:57,242 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-23 21:41:57,289 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-23 21:41:57,367 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-23 21:41:57,424 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-23 21:41:57,489 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-23 21:42:03,588 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-23 21:42:05,820 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-23 21:42:08,009 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-23 21:42:10,197 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-23 21:42:12,385 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-23 21:42:14,542 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-23 21:42:45,116 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-23 21:42:47,313 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 11:20:08,898 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:20:17,763 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:20:20,076 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:20:22,364 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:20:24,696 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 11:20:26,944 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 11:20:29,255 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 11:21:00,810 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 11:21:03,095 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 11:21:18,896 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-24 11:21:18,974 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-24 11:21:19,062 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-24 11:21:19,149 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-24 11:21:19,294 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-24 11:21:19,382 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-24 11:21:19,483 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-24 11:21:19,596 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-24 11:21:19,684 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-24 11:21:19,773 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-24 11:21:19,866 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-24 11:21:19,963 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-24 11:21:20,057 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-24 11:21:20,146 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-24 11:21:20,241 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-24 11:21:20,340 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-24 11:21:26,079 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:21:28,348 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:21:30,643 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:21:32,925 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 11:21:35,204 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 11:21:37,595 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 11:22:37,500 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:27:35,263 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:27:42,620 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:27:44,955 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:27:47,281 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:27:49,576 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 11:27:51,823 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 11:27:54,054 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 11:28:59,994 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:29:08,200 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:29:10,617 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:29:12,888 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:45:43,645 [main] INFO orange01 - login to Application
+2024-07-24 11:45:43,893 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:45:46,286 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:45:48,569 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:45:50,912 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 11:45:53,195 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 11:45:55,432 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 11:47:24,869 [main] INFO orange01 - login to Application
+2024-07-24 11:47:25,097 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:47:27,392 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:47:29,626 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:47:31,950 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 11:47:34,227 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 11:47:36,508 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 11:48:08,220 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 11:48:10,526 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 11:48:28,018 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-24 11:48:28,127 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-24 11:48:28,211 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-24 11:48:28,299 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-24 11:48:28,385 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-24 11:48:28,488 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-24 11:48:28,585 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-24 11:48:28,674 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-24 11:48:28,752 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-24 11:48:28,812 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-24 11:48:28,882 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-24 11:48:28,974 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-24 11:48:29,053 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-24 11:48:29,149 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-24 11:48:29,226 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-24 11:48:29,305 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-24 11:48:38,232 [main] INFO orange01 - login to Application
+2024-07-24 11:48:38,585 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:48:40,925 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:48:43,194 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:48:45,515 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 11:48:47,822 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 11:48:50,108 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 11:49:21,571 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 11:49:23,835 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 11:58:30,001 [main] INFO orange01 - login to Application
+2024-07-24 11:58:30,298 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 11:58:32,678 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 11:58:35,021 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 11:58:37,336 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 11:58:39,628 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 11:58:41,913 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 12:01:32,298 [main] INFO orange01 - login to Application
+2024-07-24 12:01:32,630 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 12:01:34,955 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 12:01:37,246 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 12:01:39,569 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 12:01:41,830 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 12:01:44,144 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 12:02:15,418 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 12:02:17,641 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 12:02:31,693 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-24 12:02:31,790 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-24 12:02:31,882 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-24 12:02:31,973 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-24 12:02:32,068 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-24 12:02:32,146 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-24 12:02:32,217 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-24 12:02:32,284 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-24 12:02:32,375 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-24 12:02:32,469 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-24 12:02:32,554 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-24 12:02:32,642 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-24 12:02:32,723 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-24 12:02:32,813 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-24 12:02:32,875 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-24 12:02:32,953 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-24 12:02:41,397 [main] INFO orange01 - login to Application
+2024-07-24 12:02:41,756 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 12:02:44,068 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 12:02:46,348 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 12:02:48,733 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 12:02:51,075 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 12:02:53,360 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 12:03:25,194 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 12:03:27,464 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 13:49:09,342 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 13:51:21,097 [main] INFO orange01 - login to Application
+2024-07-24 13:51:21,579 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:01:52,281 [main] INFO orange01 - login to Application
+2024-07-24 14:01:52,589 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:03:37,188 [main] INFO orange01 - login to Application
+2024-07-24 14:03:37,561 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:04:41,040 [main] INFO orange01 - login to Application
+2024-07-24 14:04:41,340 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:05:22,802 [main] INFO orange01 - login to Application
+2024-07-24 14:05:23,113 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:07:08,751 [main] INFO orange01 - login to Application
+2024-07-24 14:07:09,054 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:08:36,131 [main] INFO orange01 - login to Application
+2024-07-24 14:11:08,512 [main] INFO orange01 - login to Application
+2024-07-24 14:11:08,723 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:17:00,638 [main] INFO orange01 - login to Application
+2024-07-24 14:17:00,877 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:19:11,223 [main] INFO orange01 - login to Application
+2024-07-24 14:19:14,394 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:20:26,612 [main] INFO orange01 - login to Application
+2024-07-24 14:20:26,953 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:21:45,828 [main] INFO orange01 - login to Application
+2024-07-24 14:21:46,201 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 14:44:14,524 [main] INFO orange01 - login to Application
+2024-07-24 14:44:14,928 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:04:58,213 [main] INFO orange01 - login to Application
+2024-07-24 18:04:58,470 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:05:02,915 [main] INFO orange01 - login to Application
+2024-07-24 18:05:03,062 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:05:05,255 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 18:05:07,421 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 18:05:09,688 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 18:05:11,855 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 18:05:14,023 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 18:05:44,453 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 18:05:46,652 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 18:06:23,815 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-24 18:06:23,858 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-24 18:06:23,906 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-24 18:06:23,948 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-24 18:06:23,994 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-24 18:06:24,040 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-24 18:06:24,084 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-24 18:06:24,155 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-24 18:06:24,200 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-24 18:06:24,248 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-24 18:06:24,287 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-24 18:06:24,341 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-24 18:06:24,384 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-24 18:06:24,430 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-24 18:06:24,473 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-24 18:06:24,523 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-24 18:06:39,742 [main] INFO orange01 - login to Application
+2024-07-24 18:06:39,875 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:06:42,058 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 18:06:44,267 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 18:06:46,435 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 18:06:48,636 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 18:06:50,779 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 18:07:21,189 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 18:07:23,374 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 18:10:01,292 [main] INFO orange01 - login to Application
+2024-07-24 18:10:01,458 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:10:07,278 [main] INFO orange01 - login to Application
+2024-07-24 18:10:07,511 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:10:09,693 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 18:10:11,879 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 18:10:14,047 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 18:10:16,235 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 18:10:18,369 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 18:10:49,038 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 18:10:51,212 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 18:17:21,024 [main] INFO orange01 - login to Application
+2024-07-24 18:17:21,210 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:17:28,164 [main] INFO orange01 - login to Application
+2024-07-24 18:17:28,398 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:17:30,583 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 18:17:32,792 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 18:17:35,050 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 18:17:37,250 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 18:17:39,450 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 18:18:09,970 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 18:18:12,187 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 18:18:26,548 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-24 18:18:26,612 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-24 18:18:26,677 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-24 18:18:26,768 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-24 18:18:26,832 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-24 18:18:26,877 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-24 18:18:26,942 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-24 18:18:27,036 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-24 18:18:27,084 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-24 18:18:27,131 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-24 18:18:27,178 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-24 18:18:27,256 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-24 18:18:27,350 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-24 18:18:27,397 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-24 18:18:27,459 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-24 18:18:27,538 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-24 18:18:32,020 [main] INFO orange01 - login to Application
+2024-07-24 18:18:32,154 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 18:18:34,319 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 18:18:36,455 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 18:18:38,636 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 18:18:40,820 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 18:18:42,984 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 18:19:13,521 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 18:19:15,669 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 19:15:26,562 [main] INFO orange01 - login to Application
+2024-07-24 19:15:32,182 [main] INFO orange01 - login to Application
+2024-07-24 19:15:32,439 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 19:15:34,668 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 19:16:01,634 [main] INFO orange01 - login to Application
+2024-07-24 19:40:06,477 [main] INFO orange01 - login to Application
+2024-07-24 19:40:50,519 [main] INFO orange01 - login to Application
+2024-07-24 19:40:50,699 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 20:49:54,915 [main] INFO orange01 - login to Application
+2024-07-24 20:49:55,084 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 20:52:12,119 [main] INFO orange01 - login to Application
+2024-07-24 20:54:12,908 [main] INFO orange01 - login to Application
+2024-07-24 20:56:07,101 [main] INFO orange01 - login to Application
+2024-07-24 20:59:25,457 [main] INFO orange01 - login to Application
+2024-07-24 21:00:59,295 [main] INFO orange01 - login to Application
+2024-07-24 21:02:37,995 [main] INFO orange01 - login to Application
+2024-07-24 21:02:43,883 [main] INFO orange01 - login to Application
+2024-07-24 21:02:44,104 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 21:02:46,355 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 21:02:48,550 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 21:02:50,738 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 21:02:52,936 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 21:02:55,095 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 21:03:25,817 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 21:03:27,972 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 21:03:42,442 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-24 21:03:42,492 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-24 21:03:42,541 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-24 21:03:42,589 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-24 21:03:42,633 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-24 21:03:42,675 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-24 21:03:42,742 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-24 21:03:42,807 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-24 21:03:42,856 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-24 21:03:42,932 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-24 21:03:42,977 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-24 21:03:43,021 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-24 21:03:43,082 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-24 21:03:43,130 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-24 21:03:43,178 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-24 21:03:43,222 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-24 21:03:47,618 [main] INFO orange01 - login to Application
+2024-07-24 21:03:47,761 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 21:03:49,952 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 21:03:52,121 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 21:03:54,386 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 21:03:56,586 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 21:03:58,768 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 21:04:29,215 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 21:04:31,407 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 21:11:39,117 [main] INFO orange01 - login to Application
+2024-07-24 21:11:39,274 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 21:11:43,832 [main] INFO orange01 - login to Application
+2024-07-24 21:11:43,989 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 21:11:46,223 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 21:11:48,406 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 21:11:50,670 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 21:11:52,870 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 21:11:55,053 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 21:12:25,780 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 21:12:27,995 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-24 21:12:42,875 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-24 21:12:42,953 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-24 21:12:43,039 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-24 21:12:43,094 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-24 21:12:43,143 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-24 21:12:43,204 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-24 21:12:43,270 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-24 21:12:43,346 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-24 21:12:43,407 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-24 21:12:43,470 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-24 21:12:43,517 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-24 21:12:43,595 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-24 21:12:43,643 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-24 21:12:43,690 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-24 21:12:43,768 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-24 21:12:43,831 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-24 21:12:48,345 [main] INFO orange01 - login to Application
+2024-07-24 21:12:48,485 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-24 21:12:50,673 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-24 21:12:52,824 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-24 21:12:55,089 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-24 21:12:57,306 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-24 21:12:59,506 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-24 21:13:30,165 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-24 21:13:32,366 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 12:05:35,633 [main] INFO orange01 - login to Application
+2024-07-25 12:05:35,951 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 12:05:38,376 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 12:05:40,640 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 12:05:42,954 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 12:05:45,163 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 12:05:47,323 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 12:06:17,602 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 12:06:19,768 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 12:06:37,556 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-25 12:06:37,630 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-25 12:06:37,707 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-25 12:06:37,790 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-25 12:06:37,859 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-25 12:06:37,964 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-25 12:06:38,050 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-25 12:06:38,121 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-25 12:06:38,203 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-25 12:06:38,280 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-25 12:06:38,380 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-25 12:06:38,466 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-25 12:06:38,545 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-25 12:06:38,630 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-25 12:06:38,713 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-25 12:06:38,804 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-25 12:06:48,128 [main] INFO orange01 - login to Application
+2024-07-25 12:06:48,414 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 12:06:50,798 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 12:06:53,093 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 12:06:55,576 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 12:06:57,870 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 12:07:00,158 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 12:07:31,542 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 12:07:33,859 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 12:08:32,874 [main] INFO orange01 - login to Application
+2024-07-25 12:08:33,132 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 12:08:40,614 [main] INFO orange01 - login to Application
+2024-07-25 12:08:40,955 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 12:08:43,274 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 12:08:45,570 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 12:08:47,877 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 12:08:50,134 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 12:08:52,397 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 12:09:24,124 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 12:09:26,411 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 12:09:44,807 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-25 12:09:44,902 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-25 12:09:44,991 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-25 12:09:45,084 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-25 12:09:45,173 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-25 12:09:45,238 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-25 12:09:45,329 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-25 12:09:45,410 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-25 12:09:45,482 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-25 12:09:45,572 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-25 12:09:45,636 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-25 12:09:45,741 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-25 12:09:45,829 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-25 12:09:45,913 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-25 12:09:46,010 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-25 12:09:46,099 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-25 12:09:53,913 [main] INFO orange01 - login to Application
+2024-07-25 12:09:54,203 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 12:09:56,507 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 12:09:58,782 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 12:10:01,224 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 12:10:03,518 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 12:10:05,856 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 12:10:37,267 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 12:10:39,499 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 13:41:06,578 [main] INFO orange01 - login to Application
+2024-07-25 13:41:06,772 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:41:10,343 [main] INFO orange01 - login to Application
+2024-07-25 13:41:10,495 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:41:12,722 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 13:41:14,903 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 13:41:17,139 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 13:41:19,319 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 13:41:21,487 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 13:41:29,740 [main] INFO orange01 - login to Application
+2024-07-25 13:41:29,899 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:41:32,089 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 13:41:34,261 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 13:41:36,442 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 13:41:38,649 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 13:41:40,813 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 13:45:08,871 [main] INFO orange01 - login to Application
+2024-07-25 13:45:09,083 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:45:14,606 [main] INFO orange01 - login to Application
+2024-07-25 13:45:14,793 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:45:17,014 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 13:45:19,185 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 13:45:21,377 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 13:45:23,562 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 13:45:25,755 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 13:45:41,502 [main] INFO orange01 - login to Application
+2024-07-25 13:45:41,695 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:45:43,866 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 13:45:46,031 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 13:45:48,220 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 13:45:50,386 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 13:45:52,542 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 13:47:20,508 [main] INFO orange01 - login to Application
+2024-07-25 13:47:20,672 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:47:25,703 [main] INFO orange01 - login to Application
+2024-07-25 13:47:25,924 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:47:28,164 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 13:47:30,321 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 13:47:32,600 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 13:47:34,800 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 13:47:36,984 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 13:48:07,676 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 13:48:09,875 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 13:48:25,155 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-25 13:48:25,242 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-25 13:48:25,285 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-25 13:48:25,332 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-25 13:48:25,380 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-25 13:48:25,442 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-25 13:48:25,504 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-25 13:48:25,552 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-25 13:48:25,615 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-25 13:48:25,709 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-25 13:48:25,743 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-25 13:48:25,843 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-25 13:48:25,913 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-25 13:48:25,991 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-25 13:48:26,070 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-25 13:48:26,132 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-25 13:48:32,671 [main] INFO orange01 - login to Application
+2024-07-25 13:48:32,838 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 13:48:35,036 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 13:48:37,214 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 13:48:39,485 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 13:48:41,704 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 13:48:43,868 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 13:49:14,299 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 13:49:16,480 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 18:22:11,247 [main] INFO orange01 - login to Application
+2024-07-25 18:22:11,738 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 18:22:17,772 [main] INFO orange01 - login to Application
+2024-07-25 18:22:17,998 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 18:22:20,336 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 18:22:22,600 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 18:22:24,996 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 18:22:27,266 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 18:22:29,491 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 18:22:49,650 [main] INFO orange01 - Element [[ChromeDriver: chrome on WINDOWS (4087d00b4e6d47ab09c253c30d2aafdd)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 139). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.183)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55918}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4087d00b4e6d47ab09c253c30d2aafdd
+2024-07-25 18:23:01,013 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 18:23:03,301 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 18:23:22,745 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-25 18:23:22,827 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-25 18:23:22,901 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-25 18:23:22,982 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-25 18:23:23,059 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-25 18:23:23,120 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-25 18:23:23,183 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-25 18:23:23,262 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-25 18:23:23,343 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-25 18:23:23,427 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-25 18:23:23,473 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-25 18:23:23,539 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-25 18:23:23,618 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-25 18:23:23,702 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-25 18:23:23,792 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-25 18:23:23,867 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-25 18:23:29,729 [main] INFO orange01 - login to Application
+2024-07-25 18:23:29,954 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 18:23:32,205 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 18:23:34,445 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 18:23:36,769 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 18:23:39,039 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 18:23:41,269 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 18:24:01,228 [main] INFO orange01 - Element [[ChromeDriver: chrome on WINDOWS (da8e8173551c9b5d4be67f4f20e01c5e)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 139). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.183)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56165}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: da8e8173551c9b5d4be67f4f20e01c5e
+2024-07-25 18:24:12,652 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 18:24:14,969 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 19:54:01,195 [main] INFO orange01 - login to Application
+2024-07-25 19:54:01,367 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 19:54:05,394 [main] INFO orange01 - login to Application
+2024-07-25 19:54:05,540 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 19:54:07,739 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 19:54:09,911 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 19:54:12,078 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 19:54:14,234 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 19:54:16,377 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 19:54:39,591 [main] INFO orange01 - login to Application
+2024-07-25 19:54:39,732 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 19:54:41,940 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 19:54:44,120 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 19:54:46,278 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 19:54:48,436 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 19:54:50,591 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 20:26:19,569 [main] INFO orange01 - login to Application
+2024-07-25 20:26:19,749 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:26:23,706 [main] INFO orange01 - login to Application
+2024-07-25 20:26:23,839 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:26:26,036 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 20:26:28,182 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 20:26:30,334 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 20:26:32,505 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 20:26:34,658 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 20:26:58,000 [main] INFO orange01 - login to Application
+2024-07-25 20:26:58,134 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:27:00,292 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 20:27:02,426 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 20:27:04,576 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 20:27:06,751 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 20:27:08,890 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 20:32:20,353 [main] INFO orange01 - login to Application
+2024-07-25 20:32:26,933 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:32:30,517 [main] INFO orange01 - login to Application
+2024-07-25 20:32:34,481 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:32:36,695 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 20:32:38,863 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 20:32:41,048 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 20:32:43,245 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 20:32:45,422 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 20:33:58,681 [main] INFO orange01 - login to Application
+2024-07-25 20:34:19,680 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:34:21,868 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 20:34:24,033 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 20:34:26,228 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 20:34:28,376 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 20:34:30,522 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 20:40:28,404 [main] INFO orange01 - login to Application
+2024-07-25 20:40:28,559 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:40:33,896 [main] INFO orange01 - login to Application
+2024-07-25 20:40:34,127 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:40:36,334 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 20:40:38,507 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 20:40:40,693 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 20:40:42,874 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 20:40:45,040 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 20:41:15,021 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 20:41:17,156 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-07-25 20:41:30,258 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-07-25 20:41:30,306 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-07-25 20:41:30,352 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-07-25 20:41:30,399 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-07-25 20:41:30,467 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-07-25 20:41:30,516 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-07-25 20:41:30,558 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-07-25 20:41:30,599 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-07-25 20:41:30,640 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-07-25 20:41:30,690 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-07-25 20:41:30,729 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-07-25 20:41:30,767 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-07-25 20:41:30,816 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-07-25 20:41:30,861 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-07-25 20:41:30,907 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-07-25 20:41:30,953 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-07-25 20:41:36,131 [main] INFO orange01 - login to Application
+2024-07-25 20:41:36,356 [main] INFO orange01 - login to Application and title of pageRegister
+2024-07-25 20:41:38,504 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-07-25 20:41:40,645 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-07-25 20:41:42,797 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-07-25 20:41:44,943 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-07-25 20:41:47,127 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-07-25 20:42:17,161 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-07-25 20:42:19,302 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-08-09 10:58:29,766 [main] INFO orange01 - login to Application
+2024-08-09 10:58:30,003 [main] INFO orange01 - login to Application and title of pageRegister
+2024-08-09 10:58:40,150 [main] INFO orange01 - login to Application
+2024-08-09 10:58:40,355 [main] INFO orange01 - login to Application and title of pageRegister
+2024-08-09 10:58:42,533 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-08-09 10:58:44,726 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-08-09 10:58:46,914 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-08-09 10:58:49,072 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-08-09 10:58:51,221 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-08-09 10:59:21,256 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-08-09 10:59:23,450 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-08-09 10:59:36,903 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-08-09 10:59:36,945 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-08-09 10:59:36,992 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-08-09 10:59:37,038 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-08-09 10:59:37,083 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-08-09 10:59:37,140 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-08-09 10:59:37,185 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-08-09 10:59:37,238 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-08-09 10:59:37,282 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-08-09 10:59:37,330 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-08-09 10:59:37,376 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-08-09 10:59:37,424 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-08-09 10:59:37,470 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-08-09 10:59:37,519 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-08-09 10:59:37,564 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-08-09 10:59:37,610 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-08-09 10:59:43,058 [main] INFO orange01 - login to Application
+2024-08-09 10:59:43,224 [main] INFO orange01 - login to Application and title of pageRegister
+2024-08-09 10:59:45,412 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-08-09 10:59:47,606 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-08-09 10:59:49,786 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-08-09 10:59:51,937 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-08-09 10:59:54,075 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-08-09 11:00:24,196 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-08-09 11:00:26,362 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-08-12 12:10:05,468 [main] INFO orange01 - login to Application
+2024-08-12 12:10:05,866 [main] INFO orange01 - login to Application and title of pageRegister
+2024-08-12 12:10:11,631 [main] INFO orange01 - login to Application
+2024-08-12 12:10:11,856 [main] INFO orange01 - login to Application and title of pageRegister
+2024-08-12 12:10:14,144 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-08-12 12:10:16,522 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-08-12 12:10:18,914 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-08-12 12:10:21,231 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-08-12 12:10:23,563 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-08-12 12:10:55,134 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-08-12 12:10:57,419 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password
+2024-08-12 12:11:13,745 [main] INFO orange01 - Assertion pass : Field is Empty FirstName!!!!!!!
+2024-08-12 12:11:13,843 [main] INFO orange01 - Assertion pass : Field is Empty LastName!!!!!!!
+2024-08-12 12:11:13,946 [main] INFO orange01 - Assertion pass : Field is Empty Adress!!!!!!!
+2024-08-12 12:11:14,029 [main] INFO orange01 - Assertion pass : Field is Empty EmailAdress!!!!!!!
+2024-08-12 12:11:14,140 [main] INFO orange01 - Assertion pass : Field is Empty Phone!!!!!!!
+2024-08-12 12:11:14,235 [main] INFO orange01 - Assertion pass : Field is Empty Gender!!!!!!!
+2024-08-12 12:11:14,319 [main] INFO orange01 - Assertion pass : Field is Empty Hobbies!!!!!!!
+2024-08-12 12:11:14,406 [main] INFO orange01 - Assertion pass : Field is Empty Skill!!!!!!!
+2024-08-12 12:11:14,498 [main] INFO orange01 - Assertion pass : Field is Empty Languages!!!!!!!
+2024-08-12 12:11:14,620 [main] INFO orange01 - Assertion pass : Field is Empty country!!!!!!!
+2024-08-12 12:11:14,703 [main] INFO orange01 - Assertion pass : Field is Empty Select Country!!!!!!!
+2024-08-12 12:11:14,814 [main] INFO orange01 - Assertion pass : Field is Empty yearbox!!!!!!!
+2024-08-12 12:11:14,909 [main] INFO orange01 - Assertion pass : Field is Empty monthbox!!!!!!!
+2024-08-12 12:11:15,008 [main] INFO orange01 - Assertion pass : Field is Empty daybox!!!!!!!
+2024-08-12 12:11:15,116 [main] INFO orange01 - Assertion pass : Field is Empty Password!!!!!!!
+2024-08-12 12:11:15,198 [main] INFO orange01 - Assertion pass : Field is Empty CPassword!!!!!!!
+2024-08-12 12:11:21,324 [main] INFO orange01 - login to Application
+2024-08-12 12:11:21,552 [main] INFO orange01 - login to Application and title of pageRegister
+2024-08-12 12:11:23,896 [main] INFO orange01 - Assertion pass : Insert Data into First Name
+2024-08-12 12:11:26,223 [main] INFO orange01 - Assertion pass : Insert Data into last Name
+2024-08-12 12:11:28,637 [main] INFO orange01 - Assertion pass : Insert Data into Adress
+2024-08-12 12:11:30,938 [main] INFO orange01 - Assertion pass : Insert Data into Email address
+2024-08-12 12:11:33,205 [main] INFO orange01 - Assertion pass : Insert Data into Phone
+2024-08-12 12:12:04,512 [main] INFO orange01 - Assertion pass : Insert Data into Password
+2024-08-12 12:12:06,850 [main] INFO orange01 - Assertion pass : Insert Data into Confirm Password

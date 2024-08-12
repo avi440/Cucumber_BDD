@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Jul 23 17:54:55 IST 2024</td>
+<td>Started on:</td><td>Thu Jul 25 13:47:15 IST 2024</td>
 </tr>
-<tr><td>Total time:</td><td>0 seconds (218 ms)</td>
+<tr><td>Total time:</td><td>134 seconds (134844 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,62 +67,54 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-failed'>
-<tr><td colspan='4' align='center'><b>FAILED CONFIGURATIONS</b></td></tr>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td width="30%"><b>Exception</b></td>
 <td width="10%"><b>Time (seconds)</b></td>
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification.setUpClass()'><b>setUpClass</b><br>Test class: com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification<br>Parameters: org.testng.TestRunner@768fc0f2</td>
-<td><div><pre>java.lang.IllegalArgumentException: path must exist: C:\Automation\Cucumber_BDD_Hybrid\src\test\java\com\cucumber001_BDD\features\submitAutomationPage.feature
-	at io.cucumber.core.resource.PathScanner.findResourcesForPath(PathScanner.java:49)
-	at io.cucumber.core.resource.PathScanner.findResourcesForUri(PathScanner.java:31)
-	at io.cucumber.core.resource.ResourceScanner.findResourcesForUri(ResourceScanner.java:61)
-	at io.cucumber.core.resource.ResourceScanner.scanForResourcesUri(ResourceScanner.java:134)
-	at io.cucumber.core.runtime.FeaturePathFeatureSupplier.loadFeatures(FeaturePathFeatureSupplier.java:62)
-	at io.cucumber.core.runtime.FeaturePathFeatureSupplier.get(FeaturePathFeatureSupplier.java:45)
-	at io.cucumber.testng.TestNGCucumberRunner.&lt;init&gt;(TestNGCucumberRunner.java:122)
-	at io.cucumber.testng.AbstractTestNGCucumberTests.setUpClass(AbstractTestNGCucumberTests.java:27)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-... Removed 23 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace966544353", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace966544353'><pre>java.lang.IllegalArgumentException: path must exist: C:\Automation\Cucumber_BDD_Hybrid\src\test\java\com\cucumber001_BDD\features\submitAutomationPage.feature
-	at io.cucumber.core.resource.PathScanner.findResourcesForPath(PathScanner.java:49)
-	at io.cucumber.core.resource.PathScanner.findResourcesForUri(PathScanner.java:31)
-	at io.cucumber.core.resource.ResourceScanner.findResourcesForUri(ResourceScanner.java:61)
-	at io.cucumber.core.resource.ResourceScanner.scanForResourcesUri(ResourceScanner.java:134)
-	at io.cucumber.core.runtime.FeaturePathFeatureSupplier.loadFeatures(FeaturePathFeatureSupplier.java:62)
-	at io.cucumber.core.runtime.FeaturePathFeatureSupplier.get(FeaturePathFeatureSupplier.java:45)
-	at io.cucumber.testng.TestNGCucumberRunner.&lt;init&gt;(TestNGCucumberRunner.java:122)
-	at io.cucumber.testng.AbstractTestNGCucumberTests.setUpClass(AbstractTestNGCucumberTests.java:27)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
-	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
-	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:794)
-	at org.testng.TestRunner.run(TestRunner.java:596)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-</pre></div></td>
-<td>0</td>
-<td>com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@2a65fe7c</td></tr>
+<td title='com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification.runScenario()'><b>runScenario</b><br>Test class: com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Automation demo page Submit the data", "Optional[Submit Automation demo - Login page]"<br/>
+<a href="#Output-1634001207" onClick='toggleBox("Output-1634001207", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1634001207" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1634001207">
+Element [[ChromeDriver: chrome on WINDOWS (39d69c2bff9c7761ff9a0a847e86a4db)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 174). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.183)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52965}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39d69c2bff9c7761ff9a0a847e86a4db<br/>
+</div>
+</td>
+<td></td>
+<td>62</td>
+<td>com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@5fe94a96</td></tr>
+<tr>
+<td title='com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification.runScenario()'><b>runScenario</b><br>Test class: com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Automation demo aplication element verifycation", "Optional[Submit Automation demo - Login page]"</td>
+<td></td>
+<td>4</td>
+<td>com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@5fe94a96</td></tr>
+<tr>
+<td title='com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification.runScenario()'><b>runScenario</b><br>Test class: com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Automation demo page click on the refresh button", "Optional[Submit Automation demo - Login page]"<br/>
+<a href="#Output-2047359894" onClick='toggleBox("Output-2047359894", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2047359894" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2047359894">
+Element [[ChromeDriver: chrome on WINDOWS (97b75a7b0ad5b8d507908fb1fcc350d9)] -> xpath: //*[contains(text(),'Skills')]/following-sibling::*//*[@id='Skills']] could not be clicked! element click intercepted: Element <select type="text" class="form-control ng-pristine ng-untouched ng-valid" id="Skills" ng-model="Skill" ng-init="Skill=''">...</select> is not clickable at point (613, 139). Other element would receive the click: <a style="text-decoration:none" class="ui-corner-all">...</a>
+  (Session info: chrome=126.0.6478.183)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NDI-LAP-295', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\AVINAS~1.BAN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 97b75a7b0ad5b8d507908fb1fcc350d9<br/>
+</div>
+</td>
+<td></td>
+<td>65</td>
+<td>com.Cucumber_BDD_Hybrid.stepDefinitions.AutomationDemoSiteVerification@5fe94a96</td></tr>
 </table><p>
 </body>
 </html>
