@@ -55,7 +55,7 @@ public class BaseClass {
 
 	public void setup() {
 
-//		delectScreenshortFiles();
+		delectScreenshortFiles();
 		logger =  Logger.getLogger("orange01");
 		 PropertyConfigurator.configure("./Configuration/log4j.properties");
 		 
