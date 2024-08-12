@@ -1,22 +1,18 @@
 package com.Cucumber_BDD_Hybrid.runnersAction;
 
 
-import java.io.IOException;
 import java.util.*;
 import java.util.Map.Entry;
-import java.util.concurrent.TimeoutException;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-//import org.testng.Assert;
+import org.testng.Assert;
 
 import com.Cucumber_BDD_Hybrid.testCases.Getpage;
 
-import io.cucumber.datatable.DataTable;
 
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
-import org.junit.Assert;
+
+//import org.junit.Assert;
 
 
 
@@ -46,13 +42,15 @@ public class AutomationDemoSiteVerificationAction extends Getpage {
 	public void  automationDemoPagaElement(List<String> elements, String elementType) throws Exception{
 		if(elementType =="header element") {
 			for(int i=0; i<elements.size(); i++) {
-				Assert.assertTrue(element("fieldElement",elements.get(i)).isDisplayed());
+//				Assert.assertTrue(element("fieldElement",elements.get(i)).isDisplayed());
+				Assert.assertTrue(isElementDisplayed(element("fieldElement",elements.get(i))));
 				logger.info("Assertion pass : field is "+elements.get(i)+ "is displaying");
 			}
 		}
 		if(elementType =="submition field element || submition button") {
 			for(int i=0; i<elements.size(); i++) {
-				Assert.assertTrue(element("fieldElement",elements.get(i)).isDisplayed());
+//				Assert.assertTrue(element("fieldElement",elements.get(i)).isDisplayed());
+				Assert.assertTrue(isElementDisplayed(element("fieldElement",elements.get(i))));
 				logger.info("Assertion pass : field is "+elements.get(i)+ "is displaying");
 			}
 		}		
@@ -101,7 +99,6 @@ public class AutomationDemoSiteVerificationAction extends Getpage {
 		click(element("countrySearchselect"));
 		for(Entry<String, String> dataArr :dataMap.entrySet()) {
 			click(element("CountrySelectElements",dataArr.getKey(),dataArr.getValue()));
-//			doubleClickAction(element("CountrySelectElements",dataArr.getKey(),dataArr.getValue()));
 		}
 	}
 
@@ -157,11 +154,7 @@ public class AutomationDemoSiteVerificationAction extends Getpage {
 		
 	}
 	
-	public void  errorMassage(String button) throws Exception {
-//		element("fieldElement",button).getText().equals("");
-		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"+element("FullAndAddressNameElements","country").getText());
-		
-	}
+
 	
 	public void tearDown() {
 		driver.quit();

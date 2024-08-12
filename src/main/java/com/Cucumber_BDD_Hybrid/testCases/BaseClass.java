@@ -15,14 +15,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeDriverService;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
-//import org.openqa.selenium.support.events.EventFiringWebDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+
 
 import com.Cucumber_BDD_Hybrid.utilities.ReadConfig;
 
-//import com.Cucumber_BDD_Hybrid.utilities.ReadConfig;
-
+import io.cucumber.java.Scenario;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
@@ -56,14 +53,9 @@ public class BaseClass {
 	}
 	
 
-	
 	public void setup() {
-	
-//	@Parameters("browser")
-//	@BeforeClass
-//	public void setup(String br ) {
-		
-		delectScreenshortFiles();
+
+//		delectScreenshortFiles();
 		logger =  Logger.getLogger("orange01");
 		 PropertyConfigurator.configure("./Configuration/log4j.properties");
 		 
@@ -74,6 +66,7 @@ public class BaseClass {
 //		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/driver/chromedriver.exe");
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
+		
 		 }
 		 else if(br.equals("firefox")) {
 //			 System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir") + "/driver/geckodriver.exe");
@@ -96,15 +89,20 @@ public class BaseClass {
 //			driver.manage().timeouts().implicitlyWait(IMPLICIT_WAIT, TimeUnit.SECONDS);
 
 			
-			driver.get(baseUrl);
+//			driver.get(baseUrl);
 
 
 	}
 	 
-//	@AfterClass
-//	public void tearDown() {
-//		driver.close();
-//	}
+	public void quickBrowser() {
+		driver.quit();
+	}
+	
+	public WebDriver getBr() {
+        return driver;
+    }
+
+   
 	
 	public void captureScreenshot(WebDriver driver,String tname) throws IOException {
 	 TakesScreenshot ts = (TakesScreenshot)driver;
@@ -115,6 +113,14 @@ public class BaseClass {
 //     return filePath;
      System.out.println("Take screenshot: " + tname);
   }
+	
+//	public void tearDown(Scenario Scena) {
+//	if(Scena.isFailed()) {
+//		String screenShotName = Scena.getName().replaceAll(" ", "-");
+//		byte[] sourcePath = ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+//		Scena.attach(sourcePath, "image/png", screenShotName);
+//	}
+//}
 
 
 }

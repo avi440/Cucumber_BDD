@@ -20,6 +20,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.*;
 import org.testng.Reporter;
 
+import com.education.testCases.BaseClass;
+
 import static com.Cucumber_BDD_Hybrid.testCases.ObjectFileReader.getPageTitleFromFile;
 import static org.testng.Assert.assertTrue;
 import static com.Cucumber_BDD_Hybrid.testCases.BaseClass.readConfig;
@@ -150,5 +152,17 @@ public class BaseUI {
          // Perform double-click action
          actions.doubleClick(e).perform();
 	    }
+	 
+	 public void rightClickAction(WebElement e) {
+		 Actions actions = new Actions(driver);
+         actions.contextClick(e).perform();
+	    }
+	 
+	 protected boolean isElementDisplayed(WebElement e) throws NoSuchElementException, TimeoutException { 
+ 		wait.waitForElementToBeVisible(e);
+ 		boolean result = e.isDisplayed(); 
+ 		return result; 
+ 	}
+
 
 }
